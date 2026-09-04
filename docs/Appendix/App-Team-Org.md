@@ -9,9 +9,9 @@ tags:
 1. Work together and communicate so everyone knows what needs to be done.
 2. Complete our parts on time so the team can stay on schedule.
 3. Build a working project and learn skills we can use in future engineering classes and jobs.
-4.
-5. 
-List at least five shared goals that reflect a successful product with regard to EGR3X4. Focus on team / product goals that are deeper than "getting an A".
+4. Design and build a product that would have a successful market niche.
+5. Utilize learned knowledge alongside current knowledge in the product design process.
+
 
 ## Communication Channels
 
@@ -45,10 +45,10 @@ _**Appendix Table 2**: Weekly Schedule_
 | 12:00 PM | - | S,J | S,J | S,J | S,J | S | - |
 | 1:00 PM | - | S,J| S | S,J |S | S | - |
 | 2:00 PM | - | J | R | J | S,R | S,R | - |
-| 3:00 PM | - | J | S,R | J | S,R | S,R | - |
-| 4:00 PM | - | J | S,R| J | S | R | - |
-| 5:00 PM | - | R | R | R | R | R | - |
-| 6:00 PM | - | R | R | R | R | R | - |
+| 3:00 PM | - | J,F | S,R,F | J,F | S,R,F | S,R,F | - |
+| 4:00 PM | - | J,F | S,R,F| J,F | S,F | R,F | - |
+| 5:00 PM | - | R,F | R,F | R,F | R,F | R,F | - |
+| 6:00 PM | - | R,F | R,F | R,F | R,F | R,F | - |
 | 7:00 PM | - | - | - | - | - | - | - |
 | 8:00 PM | - | - | - | - | - | - | - |
 | 9:00 PM | - | - | -| - | - | - | - |
@@ -73,12 +73,12 @@ _**Table Legend for Appendix Table 2**_
 
 _**Appendix Table 2**: Project Roles and Duties_
 
-| **Role**          | **Duties**                                                                                                                                |
+| **Role**    |**Person**    | **Duties**                                                                                                                              |
 | :---------------- | :---------------------------------------------------------------------------------------------------------------------------------------- |
-| Meeting leader    | Schedules team meetings, creates and distributes an agenda for each meeting, and runs each meeting                                        |
-| Meeting recorder  | Takes minutes of each team meeting, including attendance, and records action items and to whom they are assigned                          |
-| Assignment leader | Coordinates the team's work on a given assignment to Canvas before the due date                                                           |
-| Project monitor   | Tracks the team's progress relative to the project schedule (Gantt chart) and keeps team members apprised of deadlines and project status |
+| Meeting Leader    | Stellan | Schedules team meetings, creates and distributes an agenda for each meeting, and runs each meeting                                        |
+| Meeting recorder  | Samuel | Takes minutes of each team meeting, including attendance, and records action items and to whom they are assigned                          |
+| Assignment leader | Ramon |Coordinates the team's work on a given assignment to Canvas before the due date                                                           |
+| Project monitor   | Jojo| Tracks the team's progress relative to the project schedule (Gantt chart) and keeps team members apprised of deadlines and project status |
 
 ## Conflict Recognition & Resolution
 If there is a disagreement, we will talk about it as a team and try to come up with a solution that everyone agrees on. If a team member is having trouble completing their work, we will first try to help them. If the issue continues and cannot be resolved within the team, we will contact the instructor.
@@ -86,4 +86,4 @@ If there is a disagreement, we will talk about it as a team and try to come up w
 
 ## Signatures
 Joseph White.
-Need to add content!!
+Stellan Smith-Rel.
