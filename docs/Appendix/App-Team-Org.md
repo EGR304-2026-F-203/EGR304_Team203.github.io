@@ -74,11 +74,14 @@ _**Table Legend for Appendix Table 2**_
 _**Appendix Table 2**: Project Roles and Duties_
 
 | **Role**    |**Person**    | **Duties**                                                                                                                              |
-| :---------------- | :---------------------------------------------------------------------------------------------------------------------------------------- |
-| Meeting Leader    | Stellan | Schedules team meetings, creates and distributes an agenda for each meeting, and runs each meeting                                        |
-| Meeting recorder  | Samuel | Takes minutes of each team meeting, including attendance, and records action items and to whom they are assigned                          |
-| Assignment leader | Ramon |Coordinates the team's work on a given assignment to Canvas before the due date                                                           |
-| Project monitor   | Jojo| Tracks the team's progress relative to the project schedule (Gantt chart) and keeps team members apprised of deadlines and project status |
+| :---------------- | :--------------------------------------------------------------------------------------------------------------|
+| Meeting Leader | Stellan | Schedules team meetings, creates and distributes an agenda for each meeting, and runs each meeting                                |
+
+| Meeting recorder | Samuel | Takes minutes of each team meeting, including attendance, and records action items and to whom they are assigned                          |
+
+| Assignment leader | Ramon | Coordinates the team's work on a given assignment to Canvas before the due date                                                             |
+
+| Project monitor | Jojo| Tracks the team's progress relative to the project schedule (Gantt chart) and keeps team members apprised of deadlines and project status |
 
 ## Conflict Recognition & Resolution
 If there is a disagreement, we will talk about it as a team and try to come up with a solution that everyone agrees on. If a team member is having trouble completing their work, we will first try to help them. If the issue continues and cannot be resolved within the team, we will contact the instructor.
