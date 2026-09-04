@@ -15,15 +15,15 @@ _**Appendix Table 1**: Team Member Communication Modes_
 
 |Name                 | First Choice Communication | Second Choice Communication | Third Choice Communication |
 |---------------------|----------------------------|-----------------------------|----------------------------|
-|Member 1 |  ? | ? | ? |
-|Member 2 |  ? | ? | ? |
-|Member 3 |  ? | ? | ? |
+|Stellan |  Text | Email | Discord |
+|Jojo |  Text | Email | Zoom |
+|Ramon |  Text | Email | Discord |
 |Member 4 |  ? | ? | ? |
 
 ### Main Method for Group Communication
 
-Based on the information provided on in the "Team Member Communication Modes," the group primary method of communication is ......
- 
+Our primary method of communication will be through text.
+
 ## Communication Procedures
 
 1. How will your team communicate?
@@ -35,29 +35,29 @@ _**Appendix Table 2**: Weekly Schedule_
 
 | Time | Sunday | Monday | Tuesday | Wednesday | Thursday | Friday | Saturday |
 | :------: | :----: | :----: | :----: | :----: | :----: | :----: | :-----: |
-| 8:00 AM | - | - | M | - | M | - | - |
-| 9:00 AM | - | F | M | - | M | - | - |
-| 10:00 AM | - | B | M | - | M | - | - |
-| 11:00 AM | - | B | M | - | M | - | - |
-| 12:00 PM | Z | B, Z | M | - | M | - | - |
-| 1:00 PM | Z, F |  | M | - | M | - | - |
-| 2:00 PM | Z, F | - | M | - | M | - | - |
-| 3:00 PM | Z | - | M | - | M | - | - |
-| 4:00 PM | - | - | M | - | M | - | - |
-| 5:00 PM | - | - | M | - | M | - | - |
-| 6:00 PM | - | - | M | - | M | - | - |
-| 7:00 PM | - | - | M | - | M | - | - |
-| 8:00 PM | - | - | M | - | M | - | - |
-| 9:00 PM | - | - | M | - | M | - | - |
+| 8:00 AM | - | - | - | - | - | - | - |
+| 9:00 AM | - | - | - | - | - | - | - |
+| 10:00 AM | - | R | J | R | J | - | - |
+| 11:00 AM | - | R | J | R | J | - | - |
+| 12:00 PM | - | SJ | SJ | SJ | SJ | S | - |
+| 1:00 PM | - | SJ| S | SJ |S | S | - |
+| 2:00 PM | - | J | R | J | SR | SR | - |
+| 3:00 PM | - | J | SR | J | SR | SR | - |
+| 4:00 PM | - | J | SR| J | S | R | - |
+| 5:00 PM | - | R | R | R | R | R | - |
+| 6:00 PM | - | R | R | R | R | R | - |
+| 7:00 PM | - | - | - | - | - | - | - |
+| 8:00 PM | - | - | - | - | - | - | - |
+| 9:00 PM | - | - | -| - | - | - | - |
 
 _**Table Legend for Appendix Table 2**_
 
 | Name | Abbreviation |
 | ----- | :------: |
-| Bill | B |
-| Mary | M |
-| Zane | Z |
-| Felicity | F |
+| Stellan S.| S |
+| Jojo | J |
+| Ramon | R |
+| Samuel F. | F |
 
 
 ## Meeting Coordination
@@ -86,4 +86,3 @@ Need to add content!!
 ## Signatures
 
 Need to add content!!
-
