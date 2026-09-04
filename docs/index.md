@@ -5,13 +5,13 @@ tags:
 - tag2
 ---
 <center>
-<font size="8">Project Name<br>
-<font size="5">Team ###<br>
-**Submission: month, DD, YYYY**<br>
-Semester and Year<br>
+<font size="8">Super Awesome Products Inc.<br>
+<font size="5">Team 203<br>
+**Submission: 09, 04, 2026**<br>
+Fall 2026<br>
 <font size="4">Arizona State University<br>
 **EGR 304**<br>
-Professor Name<br>
+Professor Kevin Nichols<br>
   
 
 </center>
