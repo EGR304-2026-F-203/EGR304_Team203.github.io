@@ -6,7 +6,11 @@ tags:
 ---
 
 ## Team Goals
-
+1. Work together and communicate so everyone knows what needs to be done.
+2. Complete our parts on time so the team can stay on schedule.
+3. Build a working project and learn skills we can use in future engineering classes and jobs.
+4.
+5. 
 List at least five shared goals that reflect a successful product with regard to EGR3X4. Focus on team / product goals that are deeper than "getting an A".
 
 ## Communication Channels
@@ -38,11 +42,11 @@ _**Appendix Table 2**: Weekly Schedule_
 | 9:00 AM | - | - | - | - | - | - | - |
 | 10:00 AM | - | R | J | R | J | - | - |
 | 11:00 AM | - | R | J | R | J | - | - |
-| 12:00 PM | - | SJ | SJ | SJ | SJ | S | - |
-| 1:00 PM | - | SJ| S | SJ |S | S | - |
-| 2:00 PM | - | J | R | J | SR | SR | - |
-| 3:00 PM | - | J | SR | J | SR | SR | - |
-| 4:00 PM | - | J | SR| J | S | R | - |
+| 12:00 PM | - | S,J | S,J | S,J | S,J | S | - |
+| 1:00 PM | - | S,J| S | S,J |S | S | - |
+| 2:00 PM | - | J | R | J | S,R | S,R | - |
+| 3:00 PM | - | J | S,R | J | S,R | S,R | - |
+| 4:00 PM | - | J | S,R| J | S | R | - |
 | 5:00 PM | - | R | R | R | R | R | - |
 | 6:00 PM | - | R | R | R | R | R | - |
 | 7:00 PM | - | - | - | - | - | - | - |
@@ -60,11 +64,10 @@ _**Table Legend for Appendix Table 2**_
 
 
 ## Meeting Coordination
-
-1. What method will you use to remind yourselves of meetings (a shared calendar?)
-1. How will your team go about changing or adding meeting times?
-1. What's the preferred format for meetings (face-to-face or virtually)?
-1. Are there any other procedures that your team feels are necessary?
+1. We will use our group text to remind everyone about upcoming meetings.
+2. If a meeting needs to be changed or added, we will discuss it in the group text and find a time that works for everyone.
+3. We prefer to meet in person when possible, but we can meet virtually if needed.
+4. If someone cannot attend a meeting, they should let the group know ahead of time and catch up on anything they missed.
 
 ## Roles & Responsibilities
 
@@ -78,10 +81,9 @@ _**Appendix Table 2**: Project Roles and Duties_
 | Project monitor   | Tracks the team's progress relative to the project schedule (Gantt chart) and keeps team members apprised of deadlines and project status |
 
 ## Conflict Recognition & Resolution
-
-Need to add content!!
+If there is a disagreement, we will talk about it as a team and try to come up with a solution that everyone agrees on. If a team member is having trouble completing their work, we will first try to help them. If the issue continues and cannot be resolved within the team, we will contact the instructor.
 
 
 ## Signatures
-
+Joseph White.
 Need to add content!!
