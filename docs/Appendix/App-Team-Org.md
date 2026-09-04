@@ -18,7 +18,7 @@ _**Appendix Table 1**: Team Member Communication Modes_
 |Stellan |  Text | Email | Discord |
 |Jojo |  Text | Email | Zoom |
 |Ramon |  Text | Email | Discord |
-|Member 4 |  ? | ? | ? |
+|Samuel |  ? | ? | ? |
 
 ### Main Method for Group Communication
 
@@ -26,8 +26,7 @@ Our primary method of communication will be through text.
 
 ## Communication Procedures
 
-1. How will your team communicate?
-2. How will you handle instructor correspondence? Who is responsible? How will that be communicated with/back to the group?
+Our team will communicate via text (or other necessary methods) in a respectful, though at times informal, tone. Communication will be avoided between 9:00 PM and 5:00 AM unless critical. When meetings do not require physical proximity, a phone call, Zoom call, or other similar method will suffice. Communication with the professor will be handled by a volunteer member via email or Canvas, who will then report any necessary information via text or email.
 
 ## Meeting Schedule
 
