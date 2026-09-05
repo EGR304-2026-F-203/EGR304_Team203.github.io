@@ -22,7 +22,7 @@ _**Appendix Table 1**: Team Member Communication Modes_
 |Stellan |  Text | Email | Discord |
 |Jojo |  Text | Email | Zoom |
 |Ramon |  Text | Email | Discord |
-|Samuel |  ? | ? | ? |
+|Samuel |  Text | Zoom | Email |
 
 ### Main Method for Group Communication
 
@@ -91,3 +91,4 @@ If there is a disagreement, we will talk about it as a team and try to come up w
 Joseph White.
 Stellan Smith-Rel.
 Ramon Duarte.
+Samuel Fontana.
