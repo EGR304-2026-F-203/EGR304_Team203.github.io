@@ -90,3 +90,4 @@ If there is a disagreement, we will talk about it as a team and try to come up w
 ## Signatures
 Joseph White.
 Stellan Smith-Rel.
+Ramon Duarte.
