@@ -2,13 +2,13 @@
 title: User Needs and Benchmarking
 ---
 
-## Voice of the Customer Benchmarking Example
+## Voice of the Customer Benchmarking 
 
 ### Search #1
 
-**Keywords:** "kid science kit robotics"
+**Keywords:** "automated cat toys"
 
-**Search Results Link:** [https://www.amazon.com/s?k=kid+science+kit+robotics&crid=201H95H867ASY&sprefix=kid+science+kit+robotic%2Caps%2C162&ref=nb_sb_noss_2](https://www.amazon.com/s?k=kid+science+kit+robotics&crid=201H95H867ASY&sprefix=kid+science+kit+robotic%2Caps%2C162&ref=nb_sb_noss_2)
+**Search Results Link:** [https://www.amazon.com/s?k=automated+cat+toys&adgrpid=191560389332&hvadid=779576156814&hvdev=c&hvexpln=0&hvlocphy=9194936&hvnetw=g&hvocijid=13171796182225615015--&hvqmt=e&hvrand=13171796182225615015&hvtargid=kwd](https://www.amazon.com/s?k=automated+cat+toys&adgrpid=191560389332&hvadid=779576156814&hvdev=c&hvexpln=0&hvlocphy=9194936&hvnetw=g&hvocijid=13171796182225615015--&hvqmt=e&hvrand=13171796182225615015&hvtargid=kwd-301175565786&hydadcr=13864_13709647_2372273&mcid=993d342127263c6facd9678df487b7c4&tag=googhydr-20&ref=pd_sl_36wuvnjruk_e)
 
 ### Selected Products
 
