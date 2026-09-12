@@ -33,6 +33,7 @@ title: User Needs and Benchmarking
 |                                                                                                                                                                                        | 3.  The toy is USB rechargeable (explicit)                               |
 |
                       | 4.  The toy is power-conserving. (latent)                                 |
+
 ##### Negative Comments
 
 | Voice of the Customer                                                                                                                                                                                                                                                                                                                                                                                | Restated Customer Need                                  |
