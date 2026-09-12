@@ -26,39 +26,66 @@ title: User Needs and Benchmarking
 
 ##### Positive Comments
 
-| Voice of the Customer                                                                                                                                                                  | Restated Customer Need                                                              |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
-| "This is such a fun interactive toy for indoor cats! The clip-on design is really convenient because I can attach it to a table, shelf, or door frame without taking up any floor space. My cat immediately became interested in the flying bird movement and keeps coming back to play with it. I especially like the automatic play and rest cycles, and it’s surprisingly quiet while running. Being USB rechargeable is also a big plus since I don’t have to keep buying batteries. The interchangeable attachments are great for keeping things interesting. It feels sturdy, is easy to set up, and keeps my cat active and entertained. Definitely a great purchase for indoor cats." | 1.  Cats view the toy as fun. (explicit)                              |
-|                                                                                                                                                                                        | 2.  The toy is out of the way of walking space (explicit) |
-|                                                                                                                                                                                        | 3.  The toy is USB rechargeable (explicit)                               |
-|
-                      | 4.  The toy is power-conserving. (latent)                                 |
+| Voice of the Customer | Restated Customer Need |
+| --- | --- |
+| "This is such a fun interactive toy for indoor cats! The clip-on design is really convenient because I can attach it to a table, shelf, or door frame without taking up any floor space. My cat immediately became interested in the flying bird movement and keeps coming back to play with it. I especially like the automatic play and rest cycles, and it’s surprisingly quiet while running. Being USB rechargeable is also a big plus since I don’t have to keep buying batteries. The interchangeable attachments are great for keeping things interesting. It feels sturdy, is easy to set up, and keeps my cat active and entertained. Definitely a great purchase for indoor cats." | 1. Cats view the toy as fun. (explicit) |
+| | 2. The toy is out of the way of walking space. (explicit) |
+| | 3. The toy is USB rechargeable. (explicit) |
+| | 4. The toy is power-conserving. (latent) |
+| "LOVE THIS TOY!! I actually made a similar one out of wire coat hangers a while back but this retractable version is waaaay more engaging for my cat. I wish there was variable speed on the reel so I could set how fast/often it winds the toy up but for what it is, its great. My cat stares at it and waits for the right moment to pounce. He gets extra excited if I manually pull the string away from the door frame and let it swing. Only note is, this is not a toy for your cat to play with unattended. Anything with such a long string can be a risk. But for monitored play, this is great. I was really impressed with the strength of the clasps and how wide they go. My doorframe has moulding around both sides so I was afraid the clamp wouldnt open far enough. I also appreciate the rubber padding so it doesnt damage paint." | 5. The toy provides engaging play. (explicit) |
+| | 6. The toy allows the cat to pounce. (latent) |
+| | 7. The toy has adjustable speed. (latent) |
+| | 8. The toy has strong clasps. (explicit) |
+| | 9. The clasps accommodate different doorframe widths. (explicit) |
+| | 10. The clamps do not damage surfaces. (explicit) |
+| | 11. The toy is suitable for monitored play. (explicit) |
+
+
 
 ##### Negative Comments
 
-| Voice of the Customer                                                                                                                                                                                                                                                                                                                                                                                | Restated Customer Need                                  |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------- |
-| "I am a STEM teacher and bought a large quantity of these kits and I am disgusted by how easily the motor breaks. 12 years in STEM schools and this product is at the bottom of my list. The ladybug platform, as we call it, needs some reimagining and the materials simply can't handle the wear and tear of a classroom. Sad that I spend my own money on this with so little we got out of it." | 1.  The kit is robust. (explicit)                       |
-|                                                                                                                                                                                                                                                                                                                                                                                                      | 2.  The moving parts of the kit are reinforced.(latent) |
-|                                                                                                                                                                                                                                                                                                                                                                                                      | 3.  The kit survives multiple uses (explicit)           |
+| Voice of the Customer | Restated Customer Need |
+| --- | --- |
+| "I got this because my cat is OBSESSED with a bug-like attachment for a fishing pole toy, to the point where she cries when I put it away, even if she's tired and has fallen asleep. I was hoping for an alternative that would allow me to use two hands to, you know. Eat. Or something silly like that. My cat's opinion: she was curious at first, but lost interest quickly. She played with it once when I attached her bug toy, but didn't care about it again-even the next day when she was at her toy box meowing for me to pull her fishing pole out. I don't think the movement sequence was designed by someone who has cats. It moves far too much with no pause in the middle--cats are ambush predators and get interested initially by movement but generally don't engage until the toy is still. 8 minutes on is too long to keep their attention. The motion is also quite repetitive. My opinion: Even if my cat loved it, I would still return it. The motor makes a horrendous high-pitched whine that gave me a headache (although it may be at a frequency that not everyone can hear). Her bug toy is really too light to attach as well--the string gets itself tangled. That wouldn't be a deal breaker if the motor was actually quiet (I could potentially add weight to the string to fix the tangling issue). I would also love if it had a remote so I could turn it off and on from a distance so that I could shut it off when she lost interest (or to turn it on when she's trying to wake me up at 5am to play by biting my phone charger). I did like the clamping feature over any sort of adhesive or permanent attachment. I think it's a great idea in theory but needs a few design tweaks to be functional. And, as others have said, it is 100% not safe to be run without supervision (risk of getting strangled), but that's true of really any cat toy with a long string and I don't see a way to make it safe enough to be played with without me in the same room as her." | 1. The toy maintains the cat's interest. (explicit) |
+| | 2. The toy uses movement patterns that appeal to cats. (latent) |
+| | 3. The toy includes pauses in its movement. (latent) |
+| | 4. The toy has varied movement patterns. (explicit) |
+| | 5. The toy operates quietly. (explicit) |
+| | 6. The toy prevents the string from tangling. (explicit) |
+| | 7. The toy can accommodate different attachment weights. (latent) |
+| | 8. The toy can be remotely controlled. (explicit) |
+| | 9. The toy can be easily attached and removed. (explicit) |
+| | 10. The toy is safe to operate around cats. (explicit) |
+| | 11. The toy does not pose a strangulation hazard. (latent) |
+| | 12. The toy allows the owner to attend to other activities while the cat plays. (latent) |
+| "Beware ⚠️ I was someone who had read all the reviews good and bad but didn't pay attention to the latter because I thought that wouldn't be me. Well last week it was. I have two very active girls and I set this up only when I am present. I was cooking in my kitchen and set it up in my doorway that is directly across so I could see them playing. I noticed that they had stopped playing which they sometimes do and then come back. But this time was different they went quiet for a while and then I started hearing hissing. Long story short one of my girls got it wrapped around her back leg. She is a long haired cat so it was hard to see but it was extremely tight around her leg. Making it hard for her to walk. I am afraid that it did cut off circulation. After a lot of hissing biting and screaming from her, I was able to finally cut it off. She did walk with a limp but as soon as I was going to take her to the vet she started walking normally. All this to say this is not safe at all. Even under supervision the worst can happen. And I would hate to think of what would happen if I wasn't there. She could have lost her leg or worse got wrapped in it more. I was actually getting ready to leave a five-star review because of how much they enjoyed it. But I will never be getting anything like this again. There are other interactive toys that are much safer for active cats. This is not it." | 13. The toy prevents the string from wrapping around the cat. (explicit) |
+| | 14. The toy does not pose a risk of injury to the cat. (explicit) |
+| | 15. The toy remains safe even when used with active cats. (latent) |
+| | 16. The toy is safe to use even under supervision. (explicit) |
 
-#### 2. Next Product goes here
+#### 2. [Bispty Interactive Cat Toys for Indoor Cats, Rechargeable Automatic Cat Toy](https://www.amazon.com/Bispty-Interactive-Toys-Indoor-Rechargeable/dp/B0GX5ZW3VN/)
 
-### Search #2
+![](image2.png)
 
-(you don't have to perform multiple searches, but sometimes different keywords reveal slightly different results)
+**(include a picture)**
 
-**Keywords:** <list an alternative search you did, if applicable>
+* Price: <add price>
 
-**Search Results Link:** <add your link here>
+* Vendor: Amazon
 
-### Selected Products
+* Description: This rechargeable interactive cat toy from Bispty is designed to provide automatic entertainment and exercise for indoor cats.
 
-#### 3. Next Product goes here
+##### Positive Comments
 
-#### 4. Next Product goes here
+| Voice of the Customer | Restated Customer Need |
+| --- | --- |
+| <add positive review> | 1. <add restated customer need> |
 
-#### 5. Next Product goes here
+##### Negative Comments
+
+| Voice of the Customer | Restated Customer Need |
+| --- | --- |
+| <add negative review> | 1. <add restated customer need> |
 
 
 ## Organized Need Statements
