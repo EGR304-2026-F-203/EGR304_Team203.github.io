@@ -79,13 +79,23 @@ title: User Needs and Benchmarking
 
 | Voice of the Customer | Restated Customer Need |
 | --- | --- |
-| <add positive review> | 1. <add restated customer need> |
+|  The toy allows the cat to restart play by touching it and can run without the owner constantly controlling it. | 1. The toy allows cats to initiate play independently. (explicit) |
+| | 2. The toy can operate without continuous owner interaction. (latent) |
+| The toy has three speed modes for cats with different activity levels. | 3. The toy accommodates cats with different activity levels. (explicit) |
+| | 4. The toy allows the level of stimulation to be adjusted. (latent) |
+| The toy has bird sounds that can be turned off and a rechargeable battery that provides several hours of play. | 5. The toy can operate quietly when desired. (explicit) |
+| | 6. The toy provides adequate operating time between charges. (explicit) |
+| | 7. The toy does not require frequent battery replacement. (latent)| 
 
 ##### Negative Comments
 
 | Voice of the Customer | Restated Customer Need |
 | --- | --- |
-| <add negative review> | 1. <add restated customer need> |
+| The toy only provides one main hidden-tail style of play. | 8. The toy provides varied play patterns to maintain interest. (latent) |
+| | 9. The toy offers more than one type of interaction. (latent) |
+| The battery capacity is smaller than some competing rechargeable cat toys. | 10. The toy provides long battery life between charges. (latent) |
+| The fabric cover cannot be machine washed and must be cleaned by hand. | 11. The toy is easy to clean after repeated use. (explicit) |
+| | 12. The toy uses materials that are easy to maintain. (latent) |
 
 #### 3. [ROJECO Interactive Toys, Automatic Flying Cat Toy](https://www.amazon.com/ROJECO-Interactive-Toys-Automatic-Flying/dp/B0GZVPC664/)
 
