@@ -79,23 +79,32 @@ title: User Needs and Benchmarking
 
 | Voice of the Customer | Restated Customer Need |
 | --- | --- |
-|  The toy allows the cat to restart play by touching it and can run without the owner constantly controlling it. | 1. The toy allows cats to initiate play independently. (explicit) |
-| | 2. The toy can operate without continuous owner interaction. (latent) |
-| The toy has three speed modes for cats with different activity levels. | 3. The toy accommodates cats with different activity levels. (explicit) |
-| | 4. The toy allows the level of stimulation to be adjusted. (latent) |
-| The toy has bird sounds that can be turned off and a rechargeable battery that provides several hours of play. | 5. The toy can operate quietly when desired. (explicit) |
-| | 6. The toy provides adequate operating time between charges. (explicit) |
-| | 7. The toy does not require frequent battery replacement. (latent)| 
+|"The hidden feather pops in and out at random instead of following the exact same pattern every time, which keeps my cat curious. There was a lot of crouching, stalking, pouncing, and swatting right from the start." | 1. The toy maintains the cat's interest. (explicit) |
+| | 2. The toy provides varied movement during play. (explicit) |
+| | 3. The toy encourages natural hunting behavior. (latent) |
+| | 4. The toy encourages physical activity. (latent) |
+| "I also like that there are three speed settings. I can slow it down for a more relaxed play session or speed it up when my cat is feeling extra energetic." | 5. The toy accommodates cats with different activity levels. (explicit) |
+| | 6. The toy allows the level of stimulation to be adjusted. (latent) |
+| "The bird sounds make it even more realistic, but being able to mute them is a feature I really appreciate when I want the house to stay quiet." | 7. The toy provides realistic stimulation. (explicit) |
+| | 8. The toy can operate quietly when desired. (explicit) |
+| "The rechargeable battery is another big plus. I don't have to keep buying batteries, and the automatic sleep mode with touch activation is a smart feature." | 9. The toy does not require frequent battery replacement. (explicit) |
+| | 10. The toy conserves power when not actively being used. (latent) |
+| "My cat can wake it back up with a tap, which helps keep the play feeling interactive without me having to stand there the whole time." | 11. The toy allows cats to initiate play independently. (explicit) |
+| | 12. The toy can operate without continuous owner interaction. (latent) |
+   
 
 ##### Negative Comments
 
 | Voice of the Customer | Restated Customer Need |
 | --- | --- |
-| The toy only provides one main hidden-tail style of play. | 8. The toy provides varied play patterns to maintain interest. (latent) |
-| | 9. The toy offers more than one type of interaction. (latent) |
-| The battery capacity is smaller than some competing rechargeable cat toys. | 10. The toy provides long battery life between charges. (latent) |
-| The fabric cover cannot be machine washed and must be cleaned by hand. | 11. The toy is easy to clean after repeated use. (explicit) |
-| | 12. The toy uses materials that are easy to maintain. (latent) |
+| "There needs to be an option to turn off the noise. Our cat loves the toy itself, but he cannot stand the noise. He howls at it." | 13. The toy provides sounds that are comfortable for cats. (latent) |
+| | 14. The toy allows the amount of sound stimulation to be adjusted. (explicit) |
+| "The chirping is loud and there's no turning it off. For me, the chirping interferes with phone calls and work." | 15. The toy operates at an acceptable noise level. (explicit) |
+| | 16. The toy does not interfere with normal household activities. (latent) |
+| "Doesn't have a mode to keep the toy on and reactivates when you touch it." | 17. The toy provides different operating modes. (explicit) |
+| | 18. The toy responds appropriately when the cat interacts with it. (latent) |
+| "The tip uses a specific screw-on mechanism rather than a standard clip or loop... not being able to easily swap in their favorite teasers was a bit disappointing." | 19. The toy allows play attachments to be changed easily. (explicit) |
+| "Within just a couple of hours of playing with it, my cats managed to separate the top cap from the fabric covering." | 20. The toy withstands active and repeated play. (explicit) |
 
 #### 3. [ROJECO Interactive Toys, Automatic Flying Cat Toy](https://www.amazon.com/ROJECO-Interactive-Toys-Automatic-Flying/dp/B0GZVPC664/)
 
@@ -113,13 +122,31 @@ title: User Needs and Benchmarking
 
 | Voice of the Customer | Restated Customer Need |
 | --- | --- |
-| <add positive review> | 1. <add restated customer need> |
+|"This one definitely got my cats' attention. They like chasing the moving bird and the laser, and it keeps them busy without me having to constantly move a toy around." | 1. The toy keeps cats interested and entertained. (explicit) |
+| | 2. The toy encourages chasing behavior. (explicit) |
+| | 3. The toy can operate without continuous owner interaction. (explicit) |
+| "My cats enjoy playing with this toy. It keeps them entertained for hours. The laser is something they really love." | 4. The toy maintains a cat's interest for extended play sessions. (explicit) |
+| | 5. The toy provides multiple types of stimulation. (latent) |
+| "He loves this! Honestly could play with it for hours. The moving bird keeps him chasing... It's really durable and had held up great with her hyper cat!" | 6. The toy encourages physical activity. (explicit) |
+| | 7. The toy withstands active play. (explicit) |
+| | 8. The toy is durable during repeated use. (latent) |
+| "This interactive cat toy is the biggest hit among all four of my cats... they still play with it until it is dead, and I have to recharge it." | 9. The toy appeals to multiple cats. (explicit) |
+| | 10. The toy maintains interest over repeated play sessions. (explicit) |
+| "The toy has three modes, two of which are without the laser, and the last one is with the laser." | 11. The toy provides different play modes. (explicit) |
+| "One of my favorite things about this toy is how quiet it is, so it does not scare my cat." | 12. The toy operates quietly enough to avoid frightening cats. (explicit) |
 
 ##### Negative Comments
 
 | Voice of the Customer | Restated Customer Need |
 | --- | --- |
-| <add negative review> | 1. <add restated customer need> |
+|  "Great except it's not motion activated so I have to be at home with my cats to use it. Then I could just play with them myself." | 13. The toy can activate automatically when the cat wants to play. (explicit) |
+| | 14. The toy detects when a cat is nearby or interacting with it. (latent) |
+| | 15. The toy can provide play when the owner is not home. (latent) |
+| | 16. The toy does not require the owner to manually start every play session. (latent) |
+| "It is somewhat noisy while operating, though, which can get a little annoying." | 17. The toy operates at an acceptable noise level. (explicit) |
+| "The materials don't feel especially durable, so I'm not sure how well it will hold up to rough play over time." | 18. The toy withstands rough and repeated play. (explicit) |
+| "The one drawback is that the movement is fairly slow. After several minutes she lost interest and wandered off." | 19. The toy moves at a speed that maintains the cat's interest. (explicit) |
+| "A little more speed or less predictable movement would also make it feel more like live prey." | 20. The toy provides unpredictable movement that resembles natural prey. (latent) |
 
 #### 4. [Mity rain Interactive Cat Ball Toy](https://www.amazon.com/Mity-rain-Interactive-Cat-Ball/dp/B0DLKDMJB7/)
 
@@ -178,7 +205,70 @@ title: User Needs and Benchmarking
 
 ## Compiled list of user Needs
 
-1. The device will...
-1. The device is ...
-1. The device can ...
-100. The device is...
+1. The device is fun for cats.
+2. The device stays out of normal walking space.
+3. The device is rechargeable.
+4. The device conserves power.
+5. The device provides engaging play.
+6. The device allows cats to pounce.
+7. The device has adjustable speed.
+8. The device remains securely attached during play.
+9. The device accommodates different mounting locations.
+10. The device does not damage household surfaces.
+11. The device is suitable for monitored play.
+12. The device maintains the cat's interest.
+13. The device uses movement patterns that appeal to cats.
+14. The device includes pauses in its movement.
+15. The device provides varied movement patterns.
+16. The device operates quietly.
+17. The device prevents play elements from tangling.
+18. The device accommodates different attachment weights.
+19. The device can be remotely controlled.
+20. The device can be easily attached and removed.
+21. The device is safe to operate around cats.
+22. The device does not pose a strangulation hazard.
+23. The device allows the owner to attend to other activities while the cat plays.
+24. The device prevents play elements from wrapping around the cat.
+25. The device does not pose a risk of injury to the cat.
+26. The device remains safe when used with active cats.
+27. The device remains safe during supervised use.
+28. The device maintains the cat's interest.
+29. The device provides varied movement during play.
+30. The device encourages natural hunting behavior.
+31. The device encourages physical activity.
+32. The device accommodates cats with different activity levels.
+33. The device allows the level of stimulation to be adjusted.
+34. The device provides realistic stimulation.
+35. The device can operate quietly when desired.
+36. The device does not require frequent battery replacement.
+37. The device conserves power when not actively being used.
+38. The device allows cats to initiate play independently.
+39. The device can operate without continuous owner interaction.
+40. The device provides sounds that are comfortable for cats.
+41. The device allows the amount of sound stimulation to be adjusted.
+42. The device operates at an acceptable noise level.
+43. The device does not interfere with normal household activities.
+44. The device provides different operating modes.
+45. The device responds appropriately when the cat interacts with it.
+46. The device allows play attachments to be changed easily.
+47. The device withstands active and repeated play.
+48. The device keeps cats interested and entertained.
+49. The device encourages chasing behavior.
+50. The device can operate without continuous owner interaction.
+51. The device maintains a cat's interest for extended play sessions.
+52. The device provides multiple types of stimulation.
+53. The device encourages physical activity.
+54. The device withstands active play.
+55. The device is durable during repeated use.
+56. The device appeals to multiple cats.
+57. The device maintains interest over repeated play sessions.
+58. The device provides different play modes.
+59. The device operates quietly enough to avoid frightening cats.
+60. The device can activate automatically when the cat wants to play.
+61. The device detects when a cat is nearby or interacting with it.
+62. The device can provide play when the owner is not home.
+63. The device does not require the owner to manually start every play session.
+64. The device operates at an acceptable noise level.
+65. The device withstands rough and repeated play.
+66. The device moves at a speed that maintains the cat's interest.
+67. The device provides unpredictable movement that resembles natural prey.
