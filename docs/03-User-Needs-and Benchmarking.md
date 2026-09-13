@@ -69,7 +69,7 @@ title: User Needs and Benchmarking
 
 **(include a picture)**
 
-* Price: <add price>
+* Price: $27
 
 * Vendor: Amazon
 
@@ -87,7 +87,77 @@ title: User Needs and Benchmarking
 | --- | --- |
 | <add negative review> | 1. <add restated customer need> |
 
+#### 3. [ROJECO Interactive Toys, Automatic Flying Cat Toy](https://www.amazon.com/ROJECO-Interactive-Toys-Automatic-Flying/dp/B0GZVPC664/)
 
+![](image3.png)
+
+**(include a picture)**
+
+* Price: $40
+
+* Vendor: Amazon
+
+* Description: This ROJECO interactive automatic cat toy is designed to provide indoor cats with engaging, self-directed play through automatic movement.
+
+##### Positive Comments
+
+| Voice of the Customer | Restated Customer Need |
+| --- | --- |
+| <add positive review> | 1. <add restated customer need> |
+
+##### Negative Comments
+
+| Voice of the Customer | Restated Customer Need |
+| --- | --- |
+| <add negative review> | 1. <add restated customer need> |
+
+#### 4. [Mity rain Interactive Cat Ball Toy](https://www.amazon.com/Mity-rain-Interactive-Cat-Ball/dp/B0DLKDMJB7/)
+
+![](image4.png)
+
+**(include a picture)**
+
+* Price: $10
+
+* Vendor: Amazon
+
+* Description: This Mity rain interactive cat ball is an automatic, self-rolling toy designed to provide indoor cats with independent play and exercise.
+
+##### Positive Comments
+
+| Voice of the Customer | Restated Customer Need |
+| --- | --- |
+| <add positive review> | 1. <add restated customer need> |
+
+##### Negative Comments
+
+| Voice of the Customer | Restated Customer Need |
+| --- | --- |
+| <add negative review> | 1. <add restated customer need> |
+
+#### 5. [Rechargeable Interactive Automatic Feather Cat Toy](https://www.amazon.com/Rechargeable-Interactive-Automatic-Feather-Simulates/dp/B0GWP8XDJG/)
+
+![](image5.png)
+
+**(include a picture)**
+
+* Price: $27
+
+* Vendor: Amazon
+
+* Description: This rechargeable automatic interactive cat toy uses a moving feather to simulate prey movement and provide indoor cats with interactive exercise and entertainment.
+
+##### Positive Comments
+
+| Voice of the Customer | Restated Customer Need |
+| --- | --- |
+| <add positive review> | 1. <add restated customer need> |
+
+##### Negative Comments
+
+| Voice of the Customer | Restated Customer Need |
+| --- | --- |
+| <add negative review> | 1. <add restated customer need> |
 ## Organized Need Statements
 
 ### First Placement
