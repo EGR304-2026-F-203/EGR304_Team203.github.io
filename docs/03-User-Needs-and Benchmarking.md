@@ -14,7 +14,7 @@ title: User Needs and Benchmarking
 
 #### 1. [Interactive Cat Toys for Indoor Cats, Clip-On Automatic Flying Bird](https://www.amazon.com/Interactive-Cat-Toys-Indoor-Cats/dp/B0FP81JSPR/ref=sr_1_1_sspa?adgrpid=191560389332&dib=eyJ2IjoiMSJ9.1n8J4KWhcczZAu2m-xIn8Ay6nBfhAbGl15syriEHgk2mwHTSofVWQ08cA8PqJ1kIhdtYzwfIhXo_kIxOBODengpos4446NmesLH7j39VLZZTpaZ85-AcgYeIvJERm6tKxSutN2e-_RDHw53u29W92kUgUnUNTByzw6XVq_uddW7Et0xDqbh3tha9rU9nVLRWYGB2PQvHtytxT4r5gjBz-W4o41kPkIVtL7EFsTh16IPILsY3x-6kJZM3E5-nY4GZdj3RtFxZptrhrDL8yRMdZAo-2qCxaWQRk9HeycjtCzw.wZcnVy0i2T7rTT0tCFwaepBIhHcTjc-_uOKGUGYf74Y&dib_tag=se&hvadid=779576156814&hvdev=c&hvexpln=0&hvlocphy=9194936&hvnetw=g&hvocijid=13171796182225615015--&hvqmt=e&hvrand=13171796182225615015&hvtargid=kwd-301175565786&hydadcr=13864_13709647_2372273&keywords=automated%2Bcat%2Btoys&mcid=993d342127263c6facd9678df487b7c4&qid=1789167971&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1) 
 
-![](AmazonImage1.png)
+![](image/AmazonImage1.png)
 
 
 * Price: $26
@@ -64,7 +64,7 @@ title: User Needs and Benchmarking
 
 #### 2. [Bispty Interactive Cat Toys for Indoor Cats, Rechargeable Automatic Cat Toy](https://www.amazon.com/Bispty-Interactive-Toys-Indoor-Rechargeable/dp/B0GX5ZW3VN/)
 
-![](AmazonImage2.png)
+![](image/AmazonImage2.png)
 
 
 * Price: $27
@@ -106,7 +106,7 @@ title: User Needs and Benchmarking
 
 #### 3. [ROJECO Interactive Toys, Automatic Flying Cat Toy](https://www.amazon.com/ROJECO-Interactive-Toys-Automatic-Flying/dp/B0GZVPC664/)
 
-![](AmazonImage3.png)
+![](image/AmazonImage3.png)
 
 
 * Price: $40
