@@ -206,11 +206,16 @@ title: User Needs and Benchmarking
 ### First Placement
 ![](image/StickiesPhase1.1.png)
 ![](image/StickiesPhase1.2.png)
+
 ### Grouped with categories
 ![](image/StickiesPhase2.1.png)
 ![](image/StickiesPhase2.2.png)
 ![](image/StickiesPhase2.3.png)
+
 ### Ranked
+![](image/StickiesPhase3.1.png)
+![](image/StickiesPhase3.2.png)
+![](image/StickiesPhase3.3.png)
 
 ## Compiled list of user Needs
 
