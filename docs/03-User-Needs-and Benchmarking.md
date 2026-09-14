@@ -207,7 +207,9 @@ title: User Needs and Benchmarking
 ![](image/StickiesPhase1.1.png)
 ![](image/StickiesPhase1.2.png)
 ### Grouped with categories
-
+![](image/StickiesPhase2.1.png)
+![](image/StickiesPhase2.2.png)
+![](image/StickiesPhase2.3.png)
 ### Ranked
 
 ## Compiled list of user Needs
@@ -335,16 +337,17 @@ title: User Needs and Benchmarking
 86. The product behaves unpredictably to maintain the cat's interest.
 87. The product can free itself when it becomes temporarily obstructed
 88. The product can perform maintenance functions autonomously.
-89. The product has a long battery lifeThe product is compact and occupies minimal space.
-90. The product maintains reliable performance over extended periods of use.
-91. The product is aesthetically pleasing, feels durable, and accommodates large play spaces. 
-92. The product provides entertainment until cats become physically tired.
-93. The product is suitable for both adult cats and kittens.
-94. The product is as hands-off as possible and reactive to the cat, rather than simply completing the same action loop.
-95. The toy does not make excessive noise.
-96. The product draws the cat's attention to the toy elements rather than the components that drive it.
-97. The product is suitable for cats with different activity levels.
-98. The product includes a charging mechanism that allows the toy to charge in place without disrupting play for energetic cats.
-99. The product is consistently engaging enough that cats seek it out even when inactive.
-100. The product engages multiple cats simultaneously.
+89. The product has a long battery life
+90. The product is compact and occupies minimal space.
+91. The product maintains reliable performance over extended periods of use.
+92. The product is aesthetically pleasing, feels durable, and accommodates large play spaces. 
+93. The product provides entertainment until cats become physically tired.
+94. The product is suitable for both adult cats and kittens.
+95. The product is as hands-off as possible and reactive to the cat, rather than simply completing the same action loop.
+96. The toy does not make excessive noise.
+97. The product draws the cat's attention to the toy elements rather than the components that drive it.
+98. The product is suitable for cats with different activity levels.
+99. The product includes a charging mechanism that allows the toy to charge in place without disrupting play for energetic cats.
+100. The product is consistently engaging enough that cats seek it out even when inactive.
+101. The product engages multiple cats simultaneously.
 
