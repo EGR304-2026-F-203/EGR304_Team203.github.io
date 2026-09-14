@@ -204,7 +204,8 @@ title: User Needs and Benchmarking
 ## Organized Need Statements
 
 ### First Placement
-
+![](image/StickiesPhase1.1.png)
+![](image/StickiesPhase1.2.png)
 ### Grouped with categories
 
 ### Ranked
