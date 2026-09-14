@@ -161,17 +161,17 @@ title: User Needs and Benchmarking
 
 | Voice of the Customer | Restated Customer Need |
 | --- | --- |
-| "Both cats think this is the best thing in the world. It works well on carpeting hard flooring you name it. The cats go crazy chasing it, batting it around, making all sorts of noises as it runs into things and scurries off in some other direction. My younger cats like the fast settings, but older cats may enjoy the slower settings. The quality seems pretty decent. It recharge as well and easily. The cats haven’t destroyed it yet it’s been a few months. It keeps their attention longer than any other toy I have. It’s small unobtrusive and kind of fun. Overall, a good value. I imagine you could probably replace the lure if the cats managed to chew through it or something. Or possibly change it out if they’d like something different. I don’t know that it would have enough chew resistance for a dog though." | 1. The product is durable and versatile enough to work on hard and soft surfaces and accommodate young and old cats. (explicit) |
-| "It comes with a different toy attachment, but I wish there were more options to attach onto it. Inexpensive and comes with the charger. Probably would be OK for dogs as well, my dogs chase it with the kitten. I love the feature that the sides can pop off to allow for cleaning and de-thredding of the hair that will inevitably get wrapped around it as it rolls. This thing will find the hairballs and dust bunnies you never knew existed, but also provide plenty of entertainment for your high energy creature." | 2. The product is easily cleanable and includes modular features for customization. (latent) |
-| "If the toy gets lodged temporarily under something, before it "flicks" itself free, my female cat will slow-ly creep over to it to give it a tentative sniff. The toy always reactivates just as she gets about two inches away from it, which causes her to jump every time." | 3. The product can perform maintenance functions autonomously, including getting itself unstuck. (latent) |
+| "Both cats think this is the best thing in the world. It works well on carpeting hard flooring you name it. The cats go crazy chasing it, batting it around, making all sorts of noises as it runs into things and scurries off in some other direction. My younger cats like the fast settings, but older cats may enjoy the slower settings. The quality seems pretty decent. It recharge as well and easily. The cats haven’t destroyed it yet it’s been a few months. It keeps their attention longer than any other toy I have. It’s small unobtrusive and kind of fun. Overall, a good value. I imagine you could probably replace the lure if the cats managed to chew through it or something. Or possibly change it out if they’d like something different. I don’t know that it would have enough chew resistance for a dog though." | 1. The product is durable and versatile enough to work on hard and soft surfaces and accommodate young and old cats. (explicit) | 2.The product keeps cats engaged for longer than other toys. (explicit)|3.The product is rechargeable and easy to recharge. (explicit)| 4.The product encourages independent play without constant owner involvement. (Latent)|
+| "It comes with a different toy attachment, but I wish there were more options to attach onto it. Inexpensive and comes with the charger. Probably would be OK for dogs as well, my dogs chase it with the kitten. I love the feature that the sides can pop off to allow for cleaning and de-thredding of the hair that will inevitably get wrapped around it as it rolls. This thing will find the hairballs and dust bunnies you never knew existed, but also provide plenty of entertainment for your high energy creature." | 5. The product is easily cleanable and includes modular features for customization. (latent) | 6.The product includes interchangeable toy attachments. (explicit)| 7.The product is affordable. (Latent)| 8.The product provides entertainment for highly active pets. (explicit)|
+| "If the toy gets lodged temporarily under something, before it "flicks" itself free, my female cat will slow-ly creep over to it to give it a tentative sniff. The toy always reactivates just as she gets about two inches away from it, which causes her to jump every time." | 9. The product can perform maintenance functions autonomously. (latent) | 10.The product can free itself when it becomes temporarily obstructed. (explicit)| 11.The product behaves unpredictably to maintain the cat's interest. (latent)| 12.The product encourages stalking and investigative behaviors. (latent)|
 
 ##### Negative Comments
 
 | Voice of the Customer | Restated Customer Need |
 | --- | --- |
-| "The thing is about the size of a golf ball but my 13 week old kitty loves it. Just wish the charge lasted a bit longer and didn’t get stuck under the couch." | 1. The product is large enough to resist getting stuck under furniture and has a longer battery life. (explicit) |
-| "The design of this ball is incredibly frustrating. It's the perfect size to roll under every single piece of furniture I own—the couch, the refrigerator, the bookshelf. I spend more time on my hands and knees fishing it out than my cat spends playing with it." | 2. The product does not require maintenance time comparable to or exceeding its use time. (latent) |
-| "Tails do get hung up and require frequent replacement. I can say its waterproof. Makes noise hitting walls and baseboards, etc. Charging doesn't last long - so I keep a spare." | 3. The product's attachments are durable or easily replaceable and are designed to minimize damage to the surrounding environment. (latent) |
+| "The thing is about the size of a golf ball but my 13 week old kitty loves it. Just wish the charge lasted a bit longer and didn’t get stuck under the couch." | 13. The product is large enough to resist getting stuck under furniture. (explicit) | 14. The product has a longer battery life. (explicit)| 15.The product is appropriately sized for kittens. (explicit)|
+| "The design of this ball is incredibly frustrating. It's the perfect size to roll under every single piece of furniture I own—the couch, the refrigerator, the bookshelf. I spend more time on my hands and knees fishing it out than my cat spends playing with it." | 16. The product does not require maintenance time comparable to or exceeding its use time. (latent) | 17.The product minimizes the need for manual retrieval during play. (explicit)| 18.The product is compatible with typical home environments. (Latent)|
+| "Tails do get hung up and require frequent replacement. I can say its waterproof. Makes noise hitting walls and baseboards, etc. Charging doesn't last long - so I keep a spare." | 19. The product's attachments are durable or easily replaceable and are designed to minimize damage to the surrounding environment. (latent) | 20.The product has a battery life that supports extended play sessions. (explicit)| 21.The product is waterproof. (explicit)| 22.The product operates quietly when contacting walls and furniture. (implicit)|
 
 #### 5. [Rechargeable Interactive Automatic Feather Cat Toy](https://www.amazon.com/Rechargeable-Interactive-Automatic-Feather-Simulates/dp/B0GWP8XDJG/)
 
@@ -189,17 +189,17 @@ title: User Needs and Benchmarking
 
 | Voice of the Customer | Restated Customer Need |
 | --- | --- |
-| "My cat loves it so much. The battery life is sustainable for almost 24 hours. The size is perfect. That is not occupied many space. It is a little bit noisy but acceptable. The quality is good. I love it." | 1. The product has a long battery life and is not disruptive. (explicit) |
-| "My cats love their new interactive toy. They gather round and play until they are tired. I think this would also be great entertainment for kittens! The feathered piece pops out of the randomly placed holes on the sides and the cats do not know which hole the feather will pop out of next. Loads of fun for them and I've even seen one of mine roll around on the floor with it. Pretty Apple color red is the one we got. Put it some place where your cats can navigate around it freely. I am giving 4 stars because I think it is kind of too small and light weight. It would be better if bigger and more solidly made." | 2. The product is aesthetically pleasing, feels durable, and accommodates large play spaces. (latent) |
-| "...What I really like is that the cats do not have to touch it first to make it start. The sensor picks up movement when they walk near it, so it starts playing on its own. The feather pops out randomly from the different holes, and it really does seem to trigger their hunting/play instincts. I hear this going off at all hours of the day and night, and it makes me happy knowing they are getting some playtime and activity even when I am not right there with them..." | 3. The product is as hands-off as possible and reactive to the cat, rather than simply completing the same action loop. (latent) |
+| "My cat loves it so much. The battery life is sustainable for almost 24 hours. The size is perfect. That is not occupied many space. It is a little bit noisy but acceptable. The quality is good. I love it." | 1. The product has a long battery life (explicit) | 2.The product is compact and occupies minimal space. (explicit)| 3.The product maintains reliable performance over extended periods of use. (latent)
+| "My cats love their new interactive toy. They gather round and play until they are tired. I think this would also be great entertainment for kittens! The feathered piece pops out of the randomly placed holes on the sides and the cats do not know which hole the feather will pop out of next. Loads of fun for them and I've even seen one of mine roll around on the floor with it. Pretty Apple color red is the one we got. Put it some place where your cats can navigate around it freely. I am giving 4 stars because I think it is kind of too small and light weight. It would be better if bigger and more solidly made." | 4. The product is aesthetically pleasing, feels durable, and accommodates large play spaces. (latent) | 5.The product provides entertainment until cats become physically tired. (explicit)| 6.The product is suitable for both adult cats and kittens. (explicit)|
+| "...What I really like is that the cats do not have to touch it first to make it start. The sensor picks up movement when they walk near it, so it starts playing on its own. The feather pops out randomly from the different holes, and it really does seem to trigger their hunting/play instincts. I hear this going off at all hours of the day and night, and it makes me happy knowing they are getting some playtime and activity even when I am not right there with them..." | 7. The product is as hands-off as possible and reactive to the cat, rather than simply completing the same action loop. (latent) |
 
 ##### Negative Comments
 
 | Voice of the Customer | Restated Customer Need |
 | --- | --- |
-| "Too loud" | 1. The toy does not make excessive noise. (latent) |
-| "When we first put it down, the cat heard more than it saw the toy in action. The motor is pretty loud so it can catch any cat's attention. The toy spins a tiny little feature around inside, occasionally, and randomly poking out through the side holes. Our cat slowly walked across the room because of the noise. It sat in front of the toy for a while but never really reach out to play with the feather. Again, he is an older cat so that may have reduced his interest level." | 2. The product draws the cat's attention to the toy elements rather than the components that drive it. (latent) |
-| "...She plays with it all the time, and even when I pulled it out of its usual play area to charge, she still wanted to keep playing with it. I ended up setting it on the couch while it charged..." | 3. The product includes a charging mechanism that allows the toy to charge in place without disrupting play for energetic cats. (latent) |
+| "Too loud" | 8. The toy does not make excessive noise. (latent) |
+| "When we first put it down, the cat heard more than it saw the toy in action. The motor is pretty loud so it can catch any cat's attention. The toy spins a tiny little feature around inside, occasionally, and randomly poking out through the side holes. Our cat slowly walked across the room because of the noise. It sat in front of the toy for a while but never really reach out to play with the feather. Again, he is an older cat so that may have reduced his interest level." | 9. The product draws the cat's attention to the toy elements rather than the components that drive it. (latent) | 10.The product is suitable for cats with different activity levels. (explicit)|
+| "...She plays with it all the time, and even when I pulled it out of its usual play area to charge, she still wanted to keep playing with it. I ended up setting it on the couch while it charged..." | 11. The product includes a charging mechanism that allows the toy to charge in place without disrupting play for energetic cats. (latent) | 12.The product is consistently engaging enough that cats seek it out even when inactive. (latent)
 
 ## Organized Need Statements
 
@@ -311,3 +311,39 @@ title: User Needs and Benchmarking
 98. The device is compact without being too easy for cats to tip or push around.
 99. The device has an appearance that owners find acceptable or appealing.
 100. The device provides good value for its cost.
+66. The device moves at a speed that maintains the cat's interest.
+67. The device provides unpredictable movement that resembles natural prey.
+68. The product keeps cats engaged for longer than other toys.
+69. The product is rechargeable and easy to recharge.
+70. The product encourages independent play without constant owner involvement.
+71. The product is easily cleanable and includes modular features for customization.
+72. The product includes interchangeable toy attachments
+73. The product is affordable.
+74. The product provides entertainment for highly active pets.
+75. The product operates quietly when contacting walls and furniture.
+76. The product is waterproof.
+77. The product has a battery life that supports extended play sessions.
+78. The product's attachments are durable or easily replaceable and are designed to minimize damage to the surrounding environment.
+79. The product is compatible with typical home environments.
+80. The product minimizes the need for manual retrieval during play.
+81. The product does not require maintenance time comparable to or exceeding its use time.
+82. The product is appropriately sized for kittens.
+83. The product has a longer battery life.
+84. The product is large enough to resist getting stuck under furniture.
+85. The product encourages stalking and investigative behaviors.
+86. The product behaves unpredictably to maintain the cat's interest.
+87. The product can free itself when it becomes temporarily obstructed
+88. The product can perform maintenance functions autonomously.
+89. The product has a long battery lifeThe product is compact and occupies minimal space.
+90. The product maintains reliable performance over extended periods of use.
+91. The product is aesthetically pleasing, feels durable, and accommodates large play spaces. 
+92. The product provides entertainment until cats become physically tired.
+93. The product is suitable for both adult cats and kittens.
+94. The product is as hands-off as possible and reactive to the cat, rather than simply completing the same action loop.
+95. The toy does not make excessive noise.
+96. The product draws the cat's attention to the toy elements rather than the components that drive it.
+97. The product is suitable for cats with different activity levels.
+98. The product includes a charging mechanism that allows the toy to charge in place without disrupting play for energetic cats.
+99. The product is consistently engaging enough that cats seek it out even when inactive.
+100. The product engages multiple cats simultaneously.
+
