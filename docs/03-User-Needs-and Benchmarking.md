@@ -212,70 +212,105 @@ title: User Needs and Benchmarking
 ## Compiled list of user Needs
 
 1. The device is fun for cats.
-2. The device stays out of normal walking space.
-3. The device is rechargeable.
-4. The device conserves power.
-5. The device provides engaging play.
-6. The device allows cats to pounce.
-7. The device has adjustable speed.
-8. The device remains securely attached during play.
-9. The device accommodates different mounting locations.
-10. The device does not damage household surfaces.
-11. The device is suitable for monitored play.
-12. The device maintains the cat's interest.
-13. The device uses movement patterns that appeal to cats.
+2. The device provides engaging play.
+3. The device maintains a cat's interest.
+4. The device maintains interest during extended play sessions.
+5. The device maintains interest over repeated play sessions.
+6. The device encourages physical activity.
+7. The device encourages chasing behavior.
+8. The device encourages pouncing behavior.
+9. The device encourages stalking behavior.
+10. The device supports natural hunting behavior.
+11. The device provides stimulation that resembles natural prey.
+12. The device provides varied movement patterns.
+13. The device provides unpredictable movement.
 14. The device includes pauses in its movement.
-15. The device provides varied movement patterns.
-16. The device operates quietly.
-17. The device prevents play elements from tangling.
-18. The device accommodates different attachment weights.
-19. The device can be remotely controlled.
-20. The device can be easily attached and removed.
-21. The device is safe to operate around cats.
-22. The device does not pose a strangulation hazard.
-23. The device allows the owner to attend to other activities while the cat plays.
-24. The device prevents play elements from wrapping around the cat.
-25. The device does not pose a risk of injury to the cat.
-26. The device remains safe when used with active cats.
-27. The device remains safe during supervised use.
-28. The device maintains the cat's interest.
-29. The device provides varied movement during play.
-30. The device encourages natural hunting behavior.
-31. The device encourages physical activity.
-32. The device accommodates cats with different activity levels.
-33. The device allows the level of stimulation to be adjusted.
-34. The device provides realistic stimulation.
-35. The device can operate quietly when desired.
-36. The device does not require frequent battery replacement.
-37. The device conserves power when not actively being used.
-38. The device allows cats to initiate play independently.
-39. The device can operate without continuous owner interaction.
-40. The device provides sounds that are comfortable for cats.
-41. The device allows the amount of sound stimulation to be adjusted.
-42. The device operates at an acceptable noise level.
-43. The device does not interfere with normal household activities.
-44. The device provides different operating modes.
-45. The device responds appropriately when the cat interacts with it.
-46. The device allows play attachments to be changed easily.
-47. The device withstands active and repeated play.
-48. The device keeps cats interested and entertained.
-49. The device encourages chasing behavior.
-50. The device can operate without continuous owner interaction.
-51. The device maintains a cat's interest for extended play sessions.
-52. The device provides multiple types of stimulation.
-53. The device encourages physical activity.
-54. The device withstands active play.
-55. The device is durable during repeated use.
-56. The device appeals to multiple cats.
-57. The device maintains interest over repeated play sessions.
-58. The device provides different play modes.
-59. The device operates quietly enough to avoid frightening cats.
-60. The device can activate automatically when the cat wants to play.
-61. The device detects when a cat is nearby or interacting with it.
-62. The device can provide play when the owner is not home.
-63. The device does not require the owner to manually start every play session.
-64. The device operates at an acceptable noise level.
+15. The device allows play speed to be adjusted.
+16. The device moves at a speed that maintains the cat's interest.
+17. The device accommodates cats with different activity levels.
+18. The device allows the level of stimulation to be adjusted.
+19. The device provides multiple play modes.
+20. The device provides multiple types of stimulation.
+21. The device allows sound stimulation to be adjusted.
+22. The device provides sounds that are comfortable for cats.
+23. The device can operate quietly.
+24. The device does not interfere with normal household activities.
+25. The device can activate automatically when a cat wants to play.
+26. The device detects when a cat is nearby or interacting with it.
+27. The device allows cats to initiate play independently.
+28. The device responds appropriately when a cat interacts with it.
+29. The device does not require the owner to manually start every play session.
+30. The device can provide play when the owner is not home.
+31. The device can operate without continuous owner interaction.
+32. The device allows the owner to attend to other activities while the cat plays.
+33. The device can be remotely controlled.
+34. The device provides automatic rest periods.
+35. The device automatically limits unnecessary operating time.
+36. The device conserves power when not actively being used.
+37. The device provides long operating time between charges.
+38. The device is rechargeable.
+39. The device does not require frequent disposable battery replacement.
+40. The device is easy to recharge.
+41. The device can be charged without unnecessarily disrupting play.
+42. The device works on hard flooring.
+43. The device works on carpet and other soft flooring.
+44. The device can free itself when temporarily stuck.
+45. The device is sized to reduce the chance of becoming stuck under furniture.
+46. The device requires little owner intervention during play.
+47. The device stays out of normal walking space.
+48. The device uses little floor space.
+49. The device remains stable during active play.
+50. The device remains securely attached or positioned during use.
+51. The device accommodates different mounting locations.
+52. The device accommodates different mounting widths.
+53. The device uses a strong mounting mechanism.
+54. The device does not damage household surfaces.
+55. The device can be easily attached and removed.
+56. The device minimizes noise when contacting walls, furniture, or baseboards.
+57. The device is safe to operate around cats.
+58. The device does not pose a strangulation hazard.
+59. The device prevents play elements from wrapping around the cat.
+60. The device prevents play elements from tangling.
+61. The device minimizes the risk of injury to the cat.
+62. The device remains safe when used by active cats.
+63. The device remains safe during supervised use.
+64. The device withstands active play.
 65. The device withstands rough and repeated play.
+66. The device is durable during repeated use.
+67. The device uses durable moving parts.
+68. The device keeps components securely attached during use.
+69. The device accommodates play attachments of different weights.
+70. The device allows play attachments to be changed easily.
+71. The device provides replaceable play attachments.
+72. The device provides multiple attachment options.
+73. The device can be customized for different play preferences.
+74. The device uses modular features that are easy to service.
+75. The device is easy to clean.
+76. The device allows trapped hair and thread to be removed easily.
+77. The device resists damage from incidental water exposure.
+78. The device requires little routine maintenance.
+79. The device uses materials that are easy to maintain.
+80. The device appeals to multiple cats.
+81. The device can withstand use by more than one cat.
+82. The device accommodates young cats.
+83. The device accommodates older cats.
+84. The device is suitable for kittens.
+85. The device works for cats with different play styles.
+86. The device provides enough movement area to encourage activity.
+87. The device presents play elements from changing locations.
+88. The device provides a moving target that is easy for cats to track.
+89. The device draws attention to the play element rather than the motor or mechanism.
+90. The device does not frighten cats with its operating noise.
+91. The device allows sound to be muted when desired.
+92. The device provides an automatic shutoff.
+93. The device uses play-session lengths that maintain the cat's attention.
+94. The device can resume play after a rest period.
+95. The device is easy for the owner to set up.
+96. The device is easy for the owner to operate.
+97. The device can be moved easily to different areas of the home.
+98. The device is compact without being too easy for cats to tip or push around.
+99. The device has an appearance that owners find acceptable or appealing.
+100. The device provides good value for its cost.
 66. The device moves at a speed that maintains the cat's interest.
 67. The device provides unpredictable movement that resembles natural prey.
 68. The product keeps cats engaged for longer than other toys.
