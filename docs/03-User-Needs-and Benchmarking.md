@@ -147,7 +147,7 @@ title: User Needs and Benchmarking
 
 #### 4. [Mity rain Interactive Cat Ball Toy](https://www.amazon.com/Mity-rain-Interactive-Cat-Ball/dp/B0DLKDMJB7/)
 
-![](image4.png)
+![](image/AmazonImage4.png)
 
 **(include a picture)**
 
@@ -175,7 +175,7 @@ title: User Needs and Benchmarking
 
 #### 5. [Rechargeable Interactive Automatic Feather Cat Toy](https://www.amazon.com/Rechargeable-Interactive-Automatic-Feather-Simulates/dp/B0GWP8XDJG/)
 
-![](image.png)
+![](image/AmazonImage5.png)
 
 **(include a picture)**
 
