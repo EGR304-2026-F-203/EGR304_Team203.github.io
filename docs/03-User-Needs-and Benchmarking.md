@@ -314,40 +314,38 @@ title: User Needs and Benchmarking
 98. The device is compact without being too easy for cats to tip or push around.
 99. The device has an appearance that owners find acceptable or appealing.
 100. The device provides good value for its cost.
-66. The device moves at a speed that maintains the cat's interest.
-67. The device provides unpredictable movement that resembles natural prey.
-68. The product keeps cats engaged for longer than other toys.
-69. The product is rechargeable and easy to recharge.
-70. The product encourages independent play without constant owner involvement.
-71. The product is easily cleanable and includes modular features for customization.
-72. The product includes interchangeable toy attachments
-73. The product is affordable.
-74. The product provides entertainment for highly active pets.
-75. The product operates quietly when contacting walls and furniture.
-76. The product is waterproof.
-77. The product has a battery life that supports extended play sessions.
-78. The product's attachments are durable or easily replaceable and are designed to minimize damage to the surrounding environment.
-79. The product is compatible with typical home environments.
-80. The product minimizes the need for manual retrieval during play.
-81. The product does not require maintenance time comparable to or exceeding its use time.
-82. The product is appropriately sized for kittens.
-83. The product has a longer battery life.
-84. The product is large enough to resist getting stuck under furniture.
-85. The product encourages stalking and investigative behaviors.
-86. The product behaves unpredictably to maintain the cat's interest.
-87. The product can free itself when it becomes temporarily obstructed
-88. The product can perform maintenance functions autonomously.
-89. The product has a long battery life
-90. The product is compact and occupies minimal space.
-91. The product maintains reliable performance over extended periods of use.
-92. The product is aesthetically pleasing, feels durable, and accommodates large play spaces. 
-93. The product provides entertainment until cats become physically tired.
-94. The product is suitable for both adult cats and kittens.
-95. The product is as hands-off as possible and reactive to the cat, rather than simply completing the same action loop.
-96. The toy does not make excessive noise.
-97. The product draws the cat's attention to the toy elements rather than the components that drive it.
-98. The product is suitable for cats with different activity levels.
-99. The product includes a charging mechanism that allows the toy to charge in place without disrupting play for energetic cats.
-100. The product is consistently engaging enough that cats seek it out even when inactive.
-101. The product engages multiple cats simultaneously.
-
+101. The product provides unpredictable movement that resembles natural prey.
+102. The product keeps cats engaged for longer than other toys.
+103. The product is rechargeable and easy to recharge.
+104. The product encourages independent play without constant owner involvement.
+105. The product is easily cleanable and includes modular features for customization.
+106. The product includes interchangeable toy attachments
+107. The product is affordable.
+108. The product provides entertainment for highly active pets.
+109. The product operates quietly when contacting walls and furniture.
+110. The product is waterproof.
+111. The product has a battery life that supports extended play sessions.
+112. The product's attachments are durable or easily replaceable and are designed to minimize damage to the surrounding environment.
+113. The product is compatible with typical home environments.
+114. The product minimizes the need for manual retrieval during play.
+115. The product does not require maintenance time comparable to or exceeding its use time.
+116. The product is appropriately sized for kittens.
+117. The product has a longer battery life.
+118. The product is large enough to resist getting stuck under furniture.
+119. The product encourages stalking and investigative behaviors.
+120. The product behaves unpredictably to maintain the cat's interest.
+121. The product can free itself when it becomes temporarily obstructed
+122. The product can perform maintenance functions autonomously.
+123. The product has a long battery life
+124. The product is compact and occupies minimal space.
+125. The product maintains reliable performance over extended periods of use.
+126. The product is aesthetically pleasing, feels durable, and accommodates large play spaces.
+127. The product provides entertainment until cats become physically tired.
+128. The product is suitable for both adult cats and kittens.
+129. The product is as hands-off as possible and reactive to the cat, rather than simply completing the same action loop.
+130. The toy does not make excessive noise.
+131. The product draws the cat's attention to the toy elements rather than the components that drive it.
+132. The product is suitable for cats with different activity levels.
+133. The product includes a charging mechanism that allows the toy to charge in place without disrupting play for energetic cats.
+134. The product is consistently engaging enough that cats seek it out even when inactive.
+135. The product engages multiple cats simultaneously.
