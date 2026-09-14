@@ -160,14 +160,16 @@ title: User Needs and Benchmarking
 ##### Positive Comments
 
 | Voice of the Customer | Restated Customer Need |
-| --- | --- |
-| <add positive review> | 1. <add restated customer need> |
+| "Both cats think this is the best thing in the world. It works well on carpeting hard flooring you name it. The cats go crazy chasing it, batting it around, making all sorts of noises as it runs into things and scurries off in some other direction. My younger cats like the fast settings, but older cats may enjoy the slower settings. The quality seems pretty decent. It recharge as well and easily. The cats haven’t destroyed it yet it’s been a few months. It keeps their attention longer than any other toy I have. It’s small unobtrusive and kind of fun. Overall, a good value. I imagine you could probably replace the lure if the cats managed to chew through it or something. Or possibly change it out if they’d like something different. I don’t know that it would have enough chew resistance for a dog though." | 1. The product must be durable and versatile enough to work on hard and soft surfaces and accommodate young and old cats. (Explicit) |
+| It comes with a different toy attachment, but I wish there were more options to attach onto it. Inexpensive and comes with the charger. Probably would be OK for dogs as well, my dogs chase it with the kitten. I love the feature that the sides can pop off to allow for cleaning and de-thredding of the hair that will inevitably get wrapped around it as it rolls. This thing will find the hairballs and dust bunnies you never knew existed, but also provide plenty of entertainment for your high energy creature. | 2. The product should be easily cleanable and should include more modular features for customization (Latent) |
+| "If the toy gets lodged temporarily under something, before it "flicks" itself free, my female cat will slow-ly creep over to it to give it a tentative sniff. The toy always reactivates just as she gets about two inches away from it, which causes her to jump every time." | 3. The product should be able to do as much of its own maintenance autonomously, including functions like getting itself unstuck. (Latent) |
 
 ##### Negative Comments
 
 | Voice of the Customer | Restated Customer Need |
-| --- | --- |
-| <add negative review> | 1. <add restated customer need> |
+| "The thing is about the size of a golf ball but my 13 week old kitty loves it. Just wish the charge lasted a bit longer and didn’t get stuck under the couch." | 1. The product should be large enough to resist getting stuck under furniture, and have a longer battery life. (Explicit) |
+| "The design of this ball is incredibly frustrating. It's the perfect size to roll under every single piece of furniture I own—the couch, the refrigerator, the bookshelf. I spend more time on my hands and knees fishing it out than my cat spends playing with it." | 2. The product should not require time for maintenance comparable or exceeding use time. (Latent) |
+| "Tails do get hung up and require frequent replacement. I can say its waterproof. Makes noise hitting walls and baseboards, etc. Charging doesn't last long - so I keep a spare." | 3. The product's attachments should be more durable or easily replaceable, and should be designed to make it hard to damage its environment. (Latent) |
 
 #### 5. [Rechargeable Interactive Automatic Feather Cat Toy](https://www.amazon.com/Rechargeable-Interactive-Automatic-Feather-Simulates/dp/B0GWP8XDJG/)
 
@@ -184,14 +186,17 @@ title: User Needs and Benchmarking
 ##### Positive Comments
 
 | Voice of the Customer | Restated Customer Need |
-| --- | --- |
-| <add positive review> | 1. <add restated customer need> |
+| "My cat loves it so much. The battery life is sustainable for almost 24 hours. The size is perfect. That is not occupied many space. It is a little bit noisy but acceptable. The quality is good. I love it." | 1. The product must have a long battery life and not be disruptive. (Explicit) |
+| "My cats love their new interactive toy. They gather round and play until they are tired. I think this would also be great entertainment for kittens! The feathered piece pops out of the randomly placed holes on the sides and the cats do not know which hole the feather will pop out of next. Loads of fun for them and I've even seen one of mine roll around on the floor with it. Pretty Apple color red is the one we got. Put it some place where your cats can navigate around it freely. I am giving 4 stars because I think it is kind of too small and light weight. It would be better if bigger and more solidly made." | 2. The product should be aesthetically pleasing, feel durable, and accommodate large play spaces. (Latent) |
+| "...What I really like is that the cats do not have to touch it first to make it start. The sensor picks up movement when they walk near it, so it starts playing on its own. The feather pops out randomly from the different holes, and it really does seem to trigger their hunting/play instincts. I hear this going off at all hours of the day and night, and it makes me happy knowing they are getting some playtime and activity even when I am not right there with them..." | 3. The product should be as hands-off as possible and reactive to the cat, not just completing the same action loop. (Latent) |
 
 ##### Negative Comments
 
-| Voice of the Customer | Restated Customer Need |
-| --- | --- |
-| <add negative review> | 1. <add restated customer need> |
+ Voice of the Customer | Restated Customer Need |
+| "Too loud" | 1. Cat people are quiet people, and the toy must not make too much noise. (Latent)|
+| "When we first put it down, the cat heard more than it saw the toy in action. The motor is pretty loud so it can catch any cat's attention. The toy spins a tiny little feature around inside, occasionally, and randomly poking out through the side holes. Our cat slowly walked across the room because of the noise. It sat in front of the toy for a while but never really reach out to play with the feather. Again, he is an older cat so that may have reduced his interest level." | 2. The product should emphasize drawing the cat's attention to the toy elements, not the components that drive it. (Latent) |
+| "...She plays with it all the time, and even when I pulled it out of its usual play area to charge, she still wanted to keep playing with it. I ended up setting it on the couch while it charged..." | 3. The product should include a charging mechanism that can allow the toy to charge in place without disrupting the space for extremely energetic cats. (Latent) |
+
 ## Organized Need Statements
 
 ### First Placement
