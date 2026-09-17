@@ -4,9 +4,7 @@ title: Product Requirements
 
 ## Project Objective
 
-This project aims to investigate and develop smart adaptive technologies, an improved user experience, enhanced safety, improved product design, and product customization options for the next-generation of Super Products Inc. cat toy line. The target is to rapidly expand Super Products Inc. presence in the global cat toy market, driving product sales to 25+ million units sold with a 55% global market share in 2026. Additional parameters include expanding the user base towards a wider variety of markets, including budget and luxury markets, as well as semi-professional market.
-
-We believe that adding smart interactions and adaptive audio filters alone will already expand our user base by 15%. With the new generation AirPods we aim to match at least the sound quality of our main competitor, the Sony WF-1000XM3, and include Active Noise Canceling that is also featured in Mifo, House of Marley, Bose, and Amazon Echo products. We will also obtain IPX4 sweat-resistant rating equal to Bose, House of Marley, and Amazon Echo earbuds, and aim to extend our range of colors, as seen in Urbanista and Jabra’s lifestyle products.
+This project aims to investigate and develop smart adaptive technologies, an improved user experience, enhanced safety, improved product design, and product customization options for the next-generation of Super Products Inc. cat toy line. The target is to rapidly expand Super Products Inc. presence in the global cat toy market, driving product sales to 25+ million units sold with a 55% global market share in 2026. Additional parameters include expanding the user base towards a wider variety of markets, including budget and luxury markets, as well as semi-professional market. We believe the expansion of the customization options in particular will expand the user base by 20%, while the new budget line of products will result in a 30% increase. With this new generation of Super Products Inc. cat toys, we aim to match the review quality of our primary competitors, the Mity Rain Interactive Cat Toy Ball and ROJECO Interactive Cat Toy 2-in-1.
 
 ## Stakeholders
 
