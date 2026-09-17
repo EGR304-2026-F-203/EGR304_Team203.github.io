@@ -16,11 +16,11 @@ This project aims to investigate and develop smart adaptive technologies, an imp
 
 ## Use Cases
 
-### User Story #1: Jenna
+### User Story #1: Owen
 
-Jenna is a 33-year-old executive who regularly visits a bar for lunch to blow off some steam. The bar is often loud with people, but it is paramount that she can hold business conversations over the phone there. Then again, she does not want to miss out on the atmosphere and be able to hear the waiters as well. Her new Apple wireless earphones allow her to switch instantly between a mode where she can fully focus on the phone conversation and a mode where the phone call and environmental sound are seamlessly combined. They also allow her to rapidly adjust the volume on the earbuds themselves without having to take out her phone.
+Owen is 20-year-old engineering student who lives in a college dorm with his cat. The dorm is small, albeit suitable for a single-cat, but his busy schedule keep him away for most of the day, and his off hours are spent studying. Unfortunately, this leads to him feeling guilty for being unable to play with his cat, while the cat often finds itself performing various destructive behaviors for self-engagement purposes. Our new product will allow for him to set-up automated play sessions when he is not around, giving the cat a non-destructive use of her energies. The product also includes automated safety mechanisms, to ensure that the cat does not harm itself during play.
 
-Jenna occasionally visits the bar in the evenings. She is a big fan of the L.A. Lakers, and whenever they play, she streams the live footage through her phone. Her new earbuds allow her to easily switch to hearing everything around her and streaming the match commentary without having to ever take the earbuds out.  She sometimes gets compliments on how stylish the earbuds look on her, and she wouldn’t want to miss out on hearing those either.
+Owen occasionally does find the time to engage with his cat, during which he plays with her with a variety of different toys. Our new product allows him to swap-out certain mechanisms for a "supervised play" mode, which involves a wider variety of play techniques. This allows him to multi-task between play sessions and other tasks, without worrying about his cat becoming destructive. Additionally, his dorm mates often utilize the device as well, providing community engagement and a higher quality-of-life for the cat.
 
 ### User Story #2
 
