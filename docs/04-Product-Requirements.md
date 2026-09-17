@@ -22,7 +22,7 @@ Owen is 20-year-old engineering student who lives in a college dorm with his cat
 
 Owen occasionally does find the time to engage with his cat, during which he plays with her with a variety of different toys. Our new product allows him to swap-out certain mechanisms for a "supervised play" mode, which involves a wider variety of play techniques. This allows him to multi-task between play sessions and other tasks, without worrying about his cat becoming destructive. Additionally, his dorm mates often utilize the device as well, providing community engagement and a higher quality-of-life for the cat.
 
-### User Story #2
+### User Story #2: Shari
 
 Shari is a 55-year-old small business owner with two cats at home, both of which require extensive play sessions before leaving her to work. While her cats can spend much of their time playing with each other, both require individual play sessions due to different interests. With our new product, not only can she set automated play sessions while she is working, she can customize the attachments to suite each cats tastes. Additionally, due to health problems, getting down on the floor or moving furniture is quite difficult, so the products combination of lightweight, strong friction, and various attachment methods allow her to place it in various locations.
 
