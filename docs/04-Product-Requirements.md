@@ -8,7 +8,7 @@ This project aims to investigate and develop smart adaptive technologies, an imp
 
 ## Stakeholders
 
-* **Target group** High-workload full-time students and small-business owners between the age of 20 and 50. They are traditionally tech-savvy but highly stressed, and require products to alleviate stress.
+* **Target group** High-workload full-time students and small-business owners between the age of 20 and 60. They are traditionally tech-savvy but highly stressed, and require products to alleviate stress.
 * **Target purchaser** Target group profile.
 * **Customer service** Prefers easy-to-repair, recyclable product, and easy-to-fix complaints to fit with their traditionally tech-influenced lifestyle.
 * **Marketing & Sales division** Looks for unique selling points around the stress relief and ease of use the product.
@@ -24,7 +24,9 @@ Owen occasionally does find the time to engage with his cat, during which he pla
 
 ### User Story #2
 
-...
+Shari is a 55-year-old small business owner with two cats at home, both of which require extensive play sessions before leaving her to work. While her cats can spend much of their time playing with each other, both require individual play sessions due to different interests. With our new product, not only can she set automated play sessions while she is working, she can customize the attachments to suite each cats tastes. Additionally, due to health problems, getting down on the floor or moving furniture is quite difficult, so the products combination of lightweight, strong friction, and various attachment methods allow her to place it in various locations.
+
+Shari also has extensive manufacturing experience, which she can employ in relation to our product. Due to the product's ease-of-customizability, she can leverage a variety of tools to design and attach her own attachments to the product. For example, one cat may prefer a certain color combination of feathers that is not natively sold with the machine. Therefore, she can create her own attachment (utilizing her design and construction tools of choice) and attach it herself. Additionally, she can use this product as an expansion of her business, creating additional attachments customized for unique user needs, whether they be luxury or necessity.
 
 ## Aspects
 
