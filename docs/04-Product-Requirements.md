@@ -8,10 +8,10 @@ This project aims to investigate and develop smart adaptive technologies, an imp
 
 ## Stakeholders
 
-* **Target group** High-income upper-class professionals between the age of 20 and 45. Their personalities are determined and ambitious. The main benefits sought are recreation and self-expression.
-* **Target purchaser** Target group profile with special attention to Full Nest I and Full Nest II mothers.
-* **Customer service** Prefers easy-to-repair, recyclable product, and easy-to-fix complaints to fit with Apple’s intuitive user experience.
-* **Marketing & Sales division** Looks for unique selling points around the Apple Aspirer-Explorer lifestyle and user experience.
+* **Target group** High-workload full-time students and small-business owners between the age of 20 and 50. They are traditionally tech-savvy but highly stressed, and require products to alleviate stress.
+* **Target purchaser** Target group profile.
+* **Customer service** Prefers easy-to-repair, recyclable product, and easy-to-fix complaints to fit with their traditionally tech-influenced lifestyle.
+* **Marketing & Sales division** Looks for unique selling points around the stress relief and ease of use the product.
 * **Retailers** Prefer products that can withstand a wide range of storage conditions including variations in temperature, vibration, humidity, and atmospheric pressure, and have a strong and compact, theft, and vandalism-proof packaging.
 
 ## Use Cases
