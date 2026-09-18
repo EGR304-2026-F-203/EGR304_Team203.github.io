@@ -30,16 +30,37 @@ Shari also has extensive manufacturing experience, which she can employ in relat
 
 ## Aspects
 
-The new product design will be based on that of the AirPods with improvements based on the following requirements. The **P1 - P10** is the "code" to indicate the priority of the requirement, from low to high.
+The following requirements define the major design aspects of the product. The **P1 - P10** code indicates the priority of each requirement, from low to high.
 
-1. **Producer Design**
-   * 1.1 The product shall be visually easy to distinguish from existing AirPods as well as main competitors Sony WF-1000XM3, Jabra Elite, Amazon Echo Buds, Samsung Galaxy Buds, and Bose SoundSport Free, and Urbanista Stockholm. (P10)
-   * 1.1 The product shall be easy to recognize as an Apple product without needing a logo on its exterior. (P10)
-   * 1.2. The product shall avoid styling elements from our Powerbeats over-ear wireless headphones since those address a different market segment. (P8)
-  
-1. **Functionality**
-      * 2.1 The product shall incorporate one or more optical proximity sensors to detect the user wearing it. (P10)
-      * 2.2 The product shall offer a dual microphone in each earbud. (P10)
+### 1. Hardware / Product Design
+- **1.1** The product shall use a rechargeable power source. (P8)
+- **1.2** The product shall remain stable or securely positioned during normal cat play. (P10)
+- **1.3** The product shall allow play attachments to be replaced. (P8)
+
+### 2. Software / Functionality
+- **2.1** The product shall provide varied or unpredictable movement during play. (P9)
+- **2.2** The product shall provide automated play without continuous owner input. (P10)
+- **2.3** The product shall automatically stop after a defined play session. (P9)
+
+### 3. Interactivity & User Experience
+- **3.1** The product shall allow the owner to manually start and stop play. (P8)
+- **3.2** The product shall operate quietly enough for normal indoor use. (P8)
+- **3.3** The product shall encourage chasing, stalking, and pouncing behaviors. (P8)
+
+### 4. Customization
+- **4.1** The product shall provide multiple selectable play modes. (P7)
+- **4.2** The product shall provide adjustable movement speed or stimulation levels. (P7)
+- **4.3** The product shall support interchangeable play attachments. (P8)
+
+### 5. Manufacturing
+- **5.1** The product shall use commercially available components where practical. (P7)
+- **5.2** The product shall allow access to internal components for repair or maintenance. (P7)
+- **5.3** The product shall use replaceable wear components where practical. (P6)
+
+### 6. Safety
+- **6.1** The product shall minimize the risk of play elements becoming wrapped around the cat. (P10)
+- **6.2** The product shall stop powered movement if the mechanism becomes obstructed. (P10)
+- **6.3** The product shall not expose sharp edges or energized electrical conductors during normal use. (P10)
 
 ## Requirement Criteria Specifications
 
