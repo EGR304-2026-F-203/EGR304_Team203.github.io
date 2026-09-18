@@ -69,5 +69,13 @@ The following requirements define the major design aspects of the product. The *
 
 ## Open Questions
 
-* Can we move towards a recyclable and repairable product, for example, with ZIF connectors and glue-free assembly?
-* Can we improve on failing or self-igniting batteries?
+* What level of movement best maintains a cat's interest without causing frustration or fear?
+* What battery capacity is required to support multiple automated play sessions while keeping the device compact and lightweight?
+* How long should each play session last?
+* How can we maintain operating noise low while stil having sufficient power?
+* How much setup should be required before first use?
+* What type of drive mechanism works best on different surfaces?
+* Should parts be removable to allow easier maintenance?
+* Should the product have interchangeable attachments?
+* How much setup should be required before first use?
+* What size should be product be?
