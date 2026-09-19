@@ -66,7 +66,70 @@ The following requirements define the major design aspects of the product. The *
 
 * 1.1.1 - Regulate system power from 9 volts to 5 volts
 * 1.1.2 - Provide over-amperage project to not exceed 1.5 amps.
+* 1.1.3 - Product must be capable of operation while charging.
 
+* 1.2.1 - The product must be strong enough to resist impact damage ~ 1 human punch.
+* 1.2.2 - The product must either be heavy enough to move less than 12 in when impacted.
+* 1.2.3 - The product must not flip over when impacted.
+  
+* 1.3.1 - The product must include replacement parts that can be replaced with common household tools.
+  
+* 2.1.1 - The product must not repeat the same physical action.
+* 2.1.2 - The product must include software to randomize the outcomes.
+* 2.1.3 - A human being should not be able to accurately predict the outcomes.
+  
+* 2.2.1 - The product must be able to run autonomously.
+* 2.2.2 - The product must be able to sense whether a cat is nearby.
+* 2.2.3 - When a cat is not detected, the product should enter a standby mode.
+  
+* 2.3.1 - The product should include an option to set a timer, after which the product will shut itself off.
+* 2.3.2 - The product should be able to deactivate and reactivate its own power supply.
+  
+* 3.1.1 - The product must include switches/buttons to allow the owner to operate the machine.
+* 3.1.2 - The UI should be as intuitive as possible.
+* 3.1.3 - The buttons/switches should be positioned such that the cat cannot accidentally press them while playing.
+  
+* 3.2.1 - The product should not operate continuously at >40 dB.
+  
+* 3.3.1 - The product's play element must encourage active behaviors from a cat to provide exercise.
+* 3.3.2 - The product must include different play elements to best interest the cat.
+  
+* 4.1.1 - The product UI must allow the user to change play modes
+* 4.1.2 - The product must include soft/hardware for multiple play modes
+  
+* 4.2.1 - The product UI must allow the user to change the intensity of operations.
+* 4.2.1 - The product must include software to allow changing the intensity of operation.
+  
+* 4.3.1 - The product must support multiple play attachments.
+* 4.3.2 - The product must include multiple play attachments.
+  
+* 5.1.1 - The product must use standard/widely available components where possible.
+* 5.1.2 - The product must use as few individual component variants (ex. M5 vs. M3 screws) as possible.
+  
+* 5.2.1 - The project must allow easy partial disassembly to conduct preventative maintenance.
+* 5.2.2 - The product must allow access to the electrical hardware, but that access should be made much more difficult.
+* 5.2.3 - The battery compartment should be physically isolated from the rest of the components, and should be easily accessible/replaceable.
+  
+* 5.3.1 - The products should include parts that are highly commercially available, to easily acquire spare parts.
+  
+* 5.3.2 - The product should include spare parts for the components anticipated to break first.
+  
+* 6.1.1 - The product should be designed with high tolerances when applicable to resist snagging, pinching, entanglement, and other potential hazards.
+* 6.1.2 - The product should be designed with low tolerances when applicable to ensure durability, stability, and to prevent electric shock.
+* 6.1.2 - The product should use replaceable parts designed to break before they cause severe damage to a cat.
+  
+* 6.2.1 - The product should immediately cease activity if the mechanism is obstructed.
+* 6.2.2 - The product must include a way to sense/determine whether or not the mechanism is obstructed.
+* 6.2.3 - The product must alarm if it becomes obstructed.
+* 6.2.4 - The product must not reset without human interaction/confirmation.
+  
+* 6.3.1 - The product must be designed so there is no risk of electrical shock.
+* 6.3.2 - The product must be designed so there are no sharp edges or cutting hazards.
+* 6.3.3 - All electrical connections will be insulated or encased.
+* 6.3.4 - All electrical components will be securely mounted.
+* 6.3.5 - All electrical wire will be channeled or otherwise secured to prevent tangling or other inadvertent damage.
+* 6.3.6 - All exposed edges will be chamfered or filleted.
+  
 ## Open Questions
 
 * What level of movement best maintains a cat's interest without causing frustration or fear?
