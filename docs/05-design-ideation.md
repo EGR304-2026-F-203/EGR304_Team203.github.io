@@ -13,8 +13,8 @@ For each user need and product requirement, brainstorm 5 different product featu
 
 |                   requirement / need | feature | detail                                                                      |
 | -----------------------------------: | :-----: | --------------------------------------------------------------------------- |
-| product provides clear notifications | buzzer  | the device provides different sounding tones and patterns for each function |
-| product provides clear notifications | speaker | the device can emit full waveforms                                          |
+| The device is fun for cats. | feather-wand  | the device provides semi-realistic play target |
+| The device is fun for cats. | laser | the device simulates a potential hunting target                                          |
 |                                   .. |   ..    | ..                                                                          |
 
 ## Step Three
