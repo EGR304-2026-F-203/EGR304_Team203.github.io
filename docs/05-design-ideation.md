@@ -29,14 +29,14 @@ For each user need and product requirement, brainstorm 5 different product featu
 | The device is easy for the owner to set up. | intuitive controls | the device will respond in a notable way when interacted with |
 | The device can be customized for different play preferences. | swappable play items | the device will have mechanisms allowing the play item to be swapped |
 | The device can be customized for different play preferences. | reprogrammable | the device will be able to be reprogrammed easily |
-| The device can be customized for different play preferences. | .. | .. |
-| The device can be customized for different play preferences. | .. | .. |
-| The device can be customized for different play preferences. | .. | .. |
-| .. | .. | .. |
-| .. | .. | .. |
-| .. | .. | .. |
-| .. | .. | .. |
-| .. | .. | .. |
+| The device can be customized for different play preferences. | swappable sounds | the device will have mechanisms allowing any sounds emitted to be changed |
+| The device can be customized for different play preferences. | interchangeable structural attachments | the device will be able to attach to different surfaces |
+| The device can be customized for different play preferences. | Bluetooth customization | the device will be able to be customized through Bluetooth |
+| The device is safe to operate around cats. | cat=friendly materials | the device will be composed of non-toxic materials |
+| The device is safe to operate around cats. | easy-release mechanisms | the device will be designed so cats can free themselves if caught |
+| The device is safe to operate around cats. | warning light | the device will light up if unsafe conditions occur |
+| The device is safe to operate around cats. | phone notification | the device will send a notification if stuck |
+| The device is safe to operate around cats. | emergency shutdown | the device will cease all movement if caught |
 | .. | .. | .. |
 | .. | .. | .. |
 | .. | .. | .. |
