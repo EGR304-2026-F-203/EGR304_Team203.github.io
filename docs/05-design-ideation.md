@@ -37,7 +37,31 @@ For each user need and product requirement, brainstorm 5 different product featu
 | The device is safe to operate around cats. | warning light | the device will light up if unsafe conditions occur |
 | The device is safe to operate around cats. | phone notification | the device will send a notification if stuck |
 | The device is safe to operate around cats. | emergency shutdown | the device will cease all movement if caught |
-| .. | .. | .. |
+| The device maintains a cat's interest. | randomized play cycles | the device changes its play sequence between sessions |
+| The device maintains a cat's interest. | variable pause timing | the device pauses for different amounts of time during play |
+| The device maintains a cat's interest. | changing target direction | the play target moves in different directions throughout a session |
+| The device maintains a cat's interest. | multiple movement programs | the device can select between several programmed movement patterns |
+| The device maintains a cat's interest. | changing play speed | the device varies its speed throughout the play session |
+| The device provides varied movement patterns. | rotating arm | the play attachment moves around the device in a circular path |
+| The device provides varied movement patterns. | oscillating arm | the play attachment moves back and forth |
+| The device provides varied movement patterns. | retractable tether | the play attachment moves toward and away from the device |
+| The device provides varied movement patterns. | reversing motor | the motor changes direction during operation |
+| The device provides varied movement patterns. | random stopping points | the play attachment stops at different positions before moving again |
+| The device can operate without continuous owner interaction. | automatic play timer | the device runs a complete play session automatically |
+| The device can operate without continuous owner interaction. | touch activation | the cat can start the device by touching it |
+| The device can operate without continuous owner interaction. | automatic rest cycle | the device alternates between active play and rest periods |
+| The device can operate without continuous owner interaction. | self-resetting mechanism | the play mechanism automatically returns to its starting position |
+| The device can operate without continuous owner interaction. | scheduled operation | the device can begin play at predetermined times |
+| The device can operate quietly. | low-noise motor | the device uses a motor designed for quiet operation |
+| The device can operate quietly. | rubber motor mounts | rubber isolation reduces vibration transferred to the housing |
+| The device can operate quietly. | padded housing | padding reduces sound produced by internal components |
+| The device can operate quietly. | soft exterior bumpers | soft material reduces noise when the device contacts furniture or walls |
+| The device can operate quietly. | vibration damping feet | the device reduces vibration transferred to the floor |
+| The device is rechargeable. | USB-C charging | the device can be charged using a standard USB-C cable |
+| The device is rechargeable. | charging dock | the device can be placed on a dock to recharge |
+| The device is rechargeable. | removable battery pack | the battery can be removed and charged or replaced |
+| The device is rechargeable. | magnetic charging connector | the charging cable connects magnetically for easy attachment |
+| The device is rechargeable. | battery level indicator | LEDs display the approximate remaining battery charge |
 | .. | .. | .. |
 | .. | .. | .. |
 | .. | .. | .. |
