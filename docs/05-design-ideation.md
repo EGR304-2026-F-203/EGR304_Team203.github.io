@@ -62,17 +62,31 @@ For each user need and product requirement, brainstorm 5 different product featu
 | The device is rechargeable. | removable battery pack | the battery can be removed and charged or replaced |
 | The device is rechargeable. | magnetic charging connector | the charging cable connects magnetically for easy attachment |
 | The device is rechargeable. | battery level indicator | LEDs display the approximate remaining battery charge |
-| .. | .. | .. |
-| .. | .. | .. |
-| .. | .. | .. |
-| .. | .. | .. |
-| .. | .. | .. |
-| .. | .. | .. |
-| .. | .. | .. |
-| .. | .. | .. |
-| .. | .. | .. |
-| .. | .. | .. |
-| .. | .. | .. |
+| The product shall stop powered movement if the mechanism becomes obstructed. | Pressure Sensor | The motor will cease operation upon experiencing unexpected force. |
+| The product shall stop powered movement if the mechanism becomes obstructed. | Decoupler Ratchet | A Gear designed to shear when excess force is applied opposite to desired direction |
+| The product shall stop powered movement if the mechanism becomes obstructed. | Magnetic Logic Connection | Solder wire to nickel-plated magnets, and stop when disconnected. |
+| The product shall stop powered movement if the mechanism becomes obstructed. | Motor Position Indexing | Use optical logic to detect incorrect spatial movement |
+| The product shall stop powered movement if the mechanism becomes obstructed. | Specialized Design | Occam's Razor. Design an unobstructable mechanism. |
+| The product shall allow access to internal components for repair or maintenance. | Magnets | Attach the shell pieces with strong magnets that can be pulled apart. |
+| The product shall allow access to internal components for repair or maintenance. | Screw Shell | Two halves of a shell screw into each other. |
+| The product shall allow access to internal components for repair or maintenance. | Nested Bolts | Attach shell pieces with countersunk nuts/bolts. |
+| The product shall allow access to internal components for repair or maintenance. | Plastic Screws | Attach shell pieces by pressure-threading screws. |
+| The product shall allow access to internal components for repair or maintenance. | Weighted Shell | One hemisphere open on the bottom, with weights to prevent it from flipping. |
+| The product shall use commercially available components where practical. | Local Sourcing | Design around parts that you can find at a local hardware store. |
+| The product shall use commercially available components where practical. | Minimum Component Count | Make custom pieces require as few assembly steps as possible. |
+| The product shall use commercially available components where practical. | Custom Universal Interface | Design custom pieces to be durable and not require additional fasteners |
+| The product shall use commercially available components where practical. | Primary Build Material Selection | Use designs that are not dependent on 3D printing for fabrication. |
+| The product shall use commercially available components where practical. | Fastener Uniformity | Design that uses fasteners of the same type and dimensions universally. |
+| The product shall not expose sharp edges or present shock hazards during use. | Chamfering | Edges will be chamfered at 45 degrees or greater |
+| The product shall not expose sharp edges or present shock hazards during use. | Filleting | Edges will be filleted to remove any corners |
+| The product shall not expose sharp edges or present shock hazards during use. | Sealing Joints | Any wire joint will either be a removable socket, heat-shrunk, and/or hot glued. |
+| The product shall not expose sharp edges or present shock hazards during use. | Cable Management | Any cabling should be firmly mounted to a surface to resist damage. |
+| The product shall not expose sharp edges or present shock hazards during use. | Insulation | Electrical components will have enough insulation/enameling to resist wear. |
+| The product shall support interchangeable play attachments | Screw-On | Parts connect via embedded threads. |
+| The product shall support interchangeable play attachments | Press-Fit | Attachments work like a shop-vac. |
+| The product shall support interchangeable play attachments | Magnets | Magnetic Attachment |
+| The product shall support interchangeable play attachments | Press-Lock | Components have a male and female end with a locking mechanism (think suitcase or telescopic table legs) |
+| The product shall support interchangeable play attachments | Standardization | Whatever the mechanism, it should be a universal interface. |
 | .. | .. | .. |
 | .. | .. | .. |
 | .. | .. | .. |
