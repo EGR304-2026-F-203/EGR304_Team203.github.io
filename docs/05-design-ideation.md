@@ -11,6 +11,7 @@ The primary audience for the product is cat owners who want a way to provide the
 ## Generating Ideas
 
 For each user need and product requirement, brainstorm 5 different product features that could be used to satisfy that requirement.
+
 |                   requirement / need | feature | detail |
 | -----------------------------------: | :-----: | :----- |
 | The device is fun for cats. | feather-wand | the device provides semi-realistic play target |
@@ -113,52 +114,11 @@ For each user need and product requirement, brainstorm 5 different product featu
 | The device accommodates cats with different activity levels. | adaptive movement frequency | the device changes how frequently the target moves based on cat interaction |
 | The device accommodates cats with different activity levels. | sensitivity adjustment | the owner can change how much cat interaction is required to trigger the device |
 | The device accommodates cats with different activity levels. | progressive intensity | the device begins with low activity and gradually increases stimulation during play |
-| .. | .. | .. |
-| .. | .. | .. |
-| .. | .. | .. |
-| .. | .. | .. |
-| .. | .. | .. |
-| .. | .. | .. |
-| .. | .. | .. |
-| .. | .. | .. |
-| .. | .. | .. |
-| .. | .. | .. |
-| .. | .. | .. |
-| .. | .. | .. |
-| .. | .. | .. |
-| .. | .. | .. |
-| .. | .. | .. |
-| .. | .. | .. |
-| .. | .. | .. |
-| .. | .. | .. |
-| .. | .. | .. |
-| .. | .. | .. |
-| .. | .. | .. |
-| .. | .. | .. |
-| .. | .. | .. |
-| .. | .. | .. |
-| .. | .. | .. |
-| .. | .. | .. |
-| .. | .. | .. |
-| .. | .. | .. |
-| .. | .. | .. |
-| .. | .. | .. |
-| .. | .. | .. |
-| .. | .. | .. |
-| .. | .. | .. |
-| .. | .. | .. |
-| .. | .. | .. |
-| .. | .. | .. |
-| .. | .. | .. |
-| .. | .. | .. |
-| .. | .. | .. |
-| .. | .. | .. |
-| .. | .. | .. |
-| .. | .. | .. |
-| .. | .. | .. |
-| .. | .. | .. |
 
 ## Step Three
+Initial Sorting of Ideas
+![](image/Brainstorm_1.1.png)
+![](image/Brainstorm_1.2.png)
 
 Add your context and tables
 
@@ -166,5 +126,8 @@ Add your context and tables
 
 Add your different product concepts stuff here
 
-## Step Six (video link)
-Embedded a YouTube video that covers the 
+## Step Five 
+
+Describe, in one page (an equivalent length in word would be single spaced, 12pt times new roman font)
+
+Describe, in one page (an equivalent length in word would be single spaced, 12pt times new roman font)
