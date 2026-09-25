@@ -126,7 +126,10 @@ Add your context and tables
 Concept #1: Multi-Toy
 ![](image/design_ideation_productdesign.png)
 
-This conc
+This concept argues that choice is elegance. It's primary feature is the customizability of the toy, with a built-in swapping mechanism, allowing different cat toys to be placed on top of a rotating motor. This primarily allows for the use of either feather-wand or laser toys, though it can be modified to fit other styles of toy. Additionally, it features two external ports, one of which can be used to recharge the device, and the other can be used to set up a preferred control mechanism. The primary control panel mechanism that the product comes with will feature a pressure sensor, simple switch, and microphone. This will allow for both touch and remote activation, with the option to force the system to turn on/off. The system will have an auto-run timer and sticky-vibration lessening feet.
+
+Used concepts:
+feather-wand, laser, speaker, swappable play items, interchangeable structural attachments, rotating arm, reversing motor, automatic rest cycle, remote control, control switch, pressure-sensor, automatic play timer, touch activation, curved travel path, floor-level target, changing target direction, Cable Management, cat-friendly materials, soft exterior bumpers, vibration damping feet, removable battery pack, instruction manual, Weighted Shell, non-slip feet, charging dock, light weight, Chamfering.
 
 
 ## Step Five 
