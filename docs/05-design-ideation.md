@@ -121,6 +121,7 @@ Initial Sorting of Ideas
 ![](image/Brainstorm_1.2.png)
 
 Product Concept Bins
+
 ![](image/Brainstorm_2.1.png)
 
 ## Step Four
