@@ -4,8 +4,9 @@ title: Design Ideation
 
 ## Intro/overview
 
-Lorem markdownum gradus, qui largis, nec pater pleno: fatum. Adspexit cursus
-cur, aut in adhuc crimina **habebat**: pro.
+The goal of this project is to develop an interactive cat toy that keeps cats engaged through movement, chasing, and pouncing behaviors. The design focuses on creating unpredictable and adjustable motion so the toy remains interesting during repeated use while also being safe and easy for the owner to operate.
+
+The primary audience for the product is cat owners who want a way to provide their cats with physical activity and mental stimulation, especially when they are unable to actively play with them. The concepts developed during this ideation process use the user needs and product requirements identified in previous assignments to explore different ways the final product could meet those goals.
 
 ## Generating Ideas
 
