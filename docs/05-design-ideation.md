@@ -120,7 +120,8 @@ Initial Sorting of Ideas
 ![](image/Brainstorm_1.1.png)
 ![](image/Brainstorm_1.2.png)
 
-Add your context and tables
+Product Concept Bins
+![](image/Brainstorm_2.1.png)
 
 ## Step Four
 Concept #1: Multi-Toy
