@@ -134,6 +134,7 @@ This concept argues that choice is elegance. It's primary feature is the customi
 Used concepts:
 feather-wand, laser, speaker, swappable play items, interchangeable structural attachments, rotating arm, reversing motor, automatic rest cycle, remote control, control switch, pressure-sensor, automatic play timer, touch activation, curved travel path, floor-level target, changing target direction, Cable Management, cat-friendly materials, soft exterior bumpers, vibration damping feet, removable battery pack, instruction manual, Weighted Shell, non-slip feet, charging dock, light weight, Chamfering.
 
+![](image/visual_concept_2.png)
 
 ## Step Five 
 
