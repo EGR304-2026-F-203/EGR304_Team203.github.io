@@ -123,6 +123,7 @@ Initial Sorting of Ideas
 Product Concept Bins
 
 ![](image/Brainstorm_2.1.png)
+![](image/Brainstorm_2.2.png)
 
 ## Step Four
 Concept #1: Multi-Toy
