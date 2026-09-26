@@ -124,7 +124,7 @@ Product Concept Bins
 
 ![](image/Brainstorm_2.1.png)
 ![](image/Brainstorm_2.2.png)
-
+![](image/Brainstorm_2.3.png)
 ## Step Four
 Concept #1: Multi-Play Cat Toy
 ![](image/design_ideation_productdesign.png)
@@ -137,6 +137,8 @@ feather-wand, laser, speaker, swappable play items, interchangeable structural a
 Concept #2: Wall-Mounted Rotating Cat Toy
 ![](image/visual_concept_2.png)
 
+Concept #3: Autonomous Interactive Cat Station
+![](image/Concept%203%20image.png)
 ## Step Five 
 
 Our brainstorm session was not a single session, but rather multiple meeting both in-person and online. All members of the group participated in these sessions. When we met, we first chose a list of needs that we felt were amongst the most important, referring to our previous ranking as a guide. Then, we began to create ideas to meet these needs, taking into account a combination of self-polled ideas, online requests, and currently available products. When generating ideas, we first considered general ideas, then began to build on those, typically by creating more detailed ideas that could be considered "small-scale" solutions that could be put together to address a broader idea. After generating the list of ideas, we ranked them into several main categories that described them. While some could arguably be in multiple, we chose to only have them in a single category. After this was complete, we began to generate concepts, working off the general ideas first, then applying the "small-scale" ideas to build onto them. The final concepts, while similar, are notably distinct in their function.
