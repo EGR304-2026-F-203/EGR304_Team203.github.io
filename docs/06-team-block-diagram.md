@@ -3,16 +3,16 @@ title: Team Block Diagram
 ---
 
 ## Introduction
+The team block diagram shows how each team member's part of the project connects and works together. It shows the main components, microcontrollers, connector pin assignments, and the analog and digital signals used between each board.
 
-**Bold Text**
-_Italic Text_
-**_Bold and Italic Text_**
+## System Overview
 
-## Research Question
+The project is split into four main parts, with each team member responsible for a different part of the system:
 
-* Bullet Point 1
-* Bullet Point 2
-* Bullet Point 3
+* **Stellan:** Speaker
+* **Jojo:** Microphone
+* **Samuel:** Motor
+* **Ramon:** Pressure Sensor
 
 ## Images
 
@@ -30,12 +30,10 @@ _Italic Text_
 
 ## Results
 
-1. Numbered Point 1
-1. Numbered Point 2
-1. Numbered Point 3
+The team block diagram shows how the four boards connect through the ribbon cable connectors. Each board uses a PIC18F57Q43 Curiosity Nano to control its part of the system. The diagram also shows the pin assignments and the analog and digital signals used between the boards.
 
 ## Conclusions and Future Work
-
+The block diagram gives the team a clear layout for how each part of the system will connect and communicate. As the project continues, the diagram can be updated if components, pin assignments, or connections change.
 ## External Links
 
 [example link to idealab](https://idealab.asu.edu)
@@ -56,4 +54,4 @@ _Italic Text_
 
 ## References
 
-
+Arizona State University, EGR 304. "Team Block Diagram." Embedded Systems Design.
