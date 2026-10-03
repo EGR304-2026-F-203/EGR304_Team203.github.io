@@ -20,7 +20,7 @@ The project is split into four main parts, with each team member responsible for
 **Figure 2:** Here is a picture of an image linked on the internet
 
 
-![dead bug circuit](../image/imageGoal.JPG){style="width:350px;"}  
+![Block Diagram](../image/Team 203 Block Diagram.drawio){style="width:350px;"}  
 **Figure 2:** Here is a picture from the image folder on my local site, with css formatting to make it smaller
 
 <!-- 
