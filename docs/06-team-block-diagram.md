@@ -18,7 +18,8 @@ The project is split into four main parts, with each team member responsible for
 
 ![Block Diagram](image/Diagram.drawio.png) 
 **Figure 1:** Team Block Diagram
-[Block Diagram]([https://www.github.com](https://github.com/EGR304-2026-F-203/EGR304_Team203.github.io/blob/main/docs/Appendix/Team_203_Block_Diagram.drawio))
+
+[Block Diagram](https://github.com/EGR304-2026-F-203/EGR304_Team203.github.io/blob/main/docs/Appendix/Team_203_Block_Diagram.drawio)
 
 ## Results
 
