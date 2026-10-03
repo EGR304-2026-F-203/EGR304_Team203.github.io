@@ -16,17 +16,9 @@ The project is split into four main parts, with each team member responsible for
 
 ## Images
 
-![image caption](https://idealab.asu.edu/assets/images/research/jumper1.png)  
-**Figure 2:** Here is a picture of an image linked on the internet
-
-
 ![Block Diagram](image/Diagram.drawio.png) 
-**Figure 2:** Here is a picture from the image folder on my local site, with css formatting to make it smaller
-
-<!-- 
-![showcase](../image/innovation_showcase_Sp-2025.jpg)  
-**Figure 3:** Innovation Showcase Spring '25, where the products were a STEM-themed display that demonstrates a single scientific/engineering concept with the intended user of K-12 students interested in learning about science, technology, engineering, or math. -->
-
+**Figure 1:** Team Block Diagram
+[Block Diagram]([https://www.github.com](https://github.com/EGR304-2026-F-203/EGR304_Team203.github.io/blob/main/docs/Appendix/Team_203_Block_Diagram.drawio))
 
 ## Results
 
