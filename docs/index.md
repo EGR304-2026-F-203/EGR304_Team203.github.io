@@ -26,7 +26,7 @@ Professor Kevin Nichols<br>
 
 | **Team Member**        |**Ind Datasheet Links** |
 | ---------------------- | -----------------------|
-| Name #1                | [JohnDoe.GitHub](https://embedded-systems-design.github.io/EGR304DataSheetTemplate/) |
+| Stellan Smith-Rel                | [StellanS.GitHub]([https://embedded-systems-design.github.io/EGR304DataSheetTemplate/](https://ssmithre-hash.github.io/ssmithre-hash_EGR304_F26.github.io/)) |
 | Name #2                | link |
 | Name #3                | link |
 | Name #4                | link |
