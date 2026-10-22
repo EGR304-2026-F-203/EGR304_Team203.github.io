@@ -7,7 +7,7 @@ tags:
 <center>
 <font size="8">Super Awesome Products Inc.<br>
 <font size="5">Team 203<br>
-**Submission: 09, 04, 2026**<br>
+**Submission: 10, 22, 2026**<br>
 Fall 2026<br>
 <font size="4">Arizona State University<br>
 **EGR 304**<br>
@@ -17,9 +17,7 @@ Professor Kevin Nichols<br>
 </center>
 
 ## Team Introduction
-> This will be updated as part of the preparation for the External Review.<br>
->    * This needs to be updated to reflect a team introduction.<br>
->    * Content should also help an unfamiliar reader navigate to areas of interest.
+This is the Super Awesome Products Inc. Team (aka Team 203), and our project is the Multi-Play Cat Toy. This is a cat toy that is exceptionally customizable, allowing for different attachments to support different styles of play. For example, it can have either a feather-wand attachment or a laser-toy attachment. Due to being a singular device, it allows for greater customization and the ability to save space and money for those living in small areas, or those with tight expenses. Behind the scenes, it uses both a microphone and a pressure sensor to control the device operation, and uses a speaker and motor for play functions. The device uses a hub-spoke communication method, with each individual component sending and receiving signals from a central hub.
 
 
 ## Team Members Datasheet links
