@@ -27,22 +27,10 @@ The team block diagram shows how the four boards connect through the ribbon cabl
 
 ## Conclusions and Future Work
 The block diagram gives the team a clear layout for how each part of the system will connect and communicate. As the project continues, the diagram can be updated if components, pin assignments, or connections change.
-## External Links
-
-[example link to idealab](https://idealab.asu.edu)
-
-
-## Results
-
-1. Numbered Point 1
-1. Numbered Point 2
-1. Numbered Point 3
-
-## Conclusions and Future Work
 
 ## External Links
 
-[example link to idealab](https://idealab.asu.edu)
+[Team Block Diagram Link](https://idealab.asu.edu)
 
 
 ## References
