@@ -142,3 +142,7 @@ Concept #3: Autonomous Interactive Cat Station
 ## Step Five 
 
 Our brainstorm session was not a single session, but rather multiple meeting both in-person and online. All members of the group participated in these sessions. When we met, we first chose a list of needs that we felt were amongst the most important, referring to our previous ranking as a guide. Then, we began to create ideas to meet these needs, taking into account a combination of self-polled ideas, online requests, and currently available products. When generating ideas, we first considered general ideas, then began to build on those, typically by creating more detailed ideas that could be considered "small-scale" solutions that could be put together to address a broader idea. After generating the list of ideas, we ranked them into several main categories that described them. While some could arguably be in multiple, we chose to only have them in a single category. After this was complete, we began to generate concepts, working off the general ideas first, then applying the "small-scale" ideas to build onto them. The final concepts, while similar, are notably distinct in their function.
+
+## Final Design
+
+In the end, we chose to go with the Multi-Play Cat Toy Design, due to it's relative ease of use, ease of design, and potential for modification. Our final design will include a motor to drive physical play components, a speaker to add audio play cues, a microphone to allow for remote operation, and a pressure sensor to activate and deactivate the device.
