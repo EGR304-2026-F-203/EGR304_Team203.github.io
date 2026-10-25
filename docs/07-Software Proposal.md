@@ -4,9 +4,7 @@ title: Software Proposal
 
 ## Introduction
 
-**Bold Text**
-_Italic Text_
-**_Bold and Italic Text_**
+Given that the chosen system is a hub-spoke design, rather than a daisy-chain design, the device will require one "brain" microcontroller. This microcontroller, in addition to handling it's own board operations, will also receive and issues signals to several other boards.
 
 ## Research Question
 
