@@ -8,7 +8,7 @@ This project aims to investigate and develop smart adaptive technologies, an imp
 
 ## Stakeholders
 
-* **Target group** High-workload full-time students and small-business owners between the age of 20 and 60. They are traditionally tech-savvy but highly stressed, and require products to alleviate stress.
+* **Target group** Cat owners, especially those who live busy lives or have limited living space. Typically between the ages of 20 and 60. They are traditionally tech-savvy but highly stressed, and require products to alleviate stress.
 * **Target purchaser** Target group profile.
 * **Customer service** Prefers easy-to-repair, recyclable product, and easy-to-fix complaints to fit with their traditionally tech-influenced lifestyle.
 * **Marketing & Sales division** Looks for unique selling points around the stress relief and ease of use the product.
