@@ -25,6 +25,6 @@ This is the Super Awesome Products Inc. Team (aka Team 203), and our project is 
 
 | **Team Member** | **Ind Datasheet Links** |
 | --------------- | ----------------------- |
-| Stellan Smith-Rel | [Stellans GitHub](https://embedded-systems-design.github.io/EGR304DataSheetTemplate/)[https://ssmithre-hash.github.io/ssmithre-hash_EGR304_F26.github.io/](https://ssmithre-hash.github.io/ssmithre-hash_EGR304_F26.github.io/) |
+| Stellan Smith-Rel | [Stellans GitHub](https://ssmithre-hash.github.io/ssmithre-hash_EGR304_F26.github.io/) |
 | Joseph White | [Joseph's GitHub](https://jojow565.github.io/jojow565_EGR304_F26.github.io/) |
 | Ramon Duarte | [Ramon's GitHub](https://rduarte-8.github.io/rduarte-8_EGR304_F26.github.io/) |
