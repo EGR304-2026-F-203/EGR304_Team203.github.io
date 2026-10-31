@@ -22,7 +22,6 @@ _**Appendix Table 1**: Team Member Communication Modes_
 |Stellan |  Text | Email | Discord |
 |Jojo |  Text | Email | Zoom |
 |Ramon |  Text | Email | Discord |
-|Samuel |  Text | Zoom | Email |
 
 ### Main Method for Group Communication
 
@@ -45,10 +44,10 @@ _**Appendix Table 2**: Weekly Schedule_
 | 12:00 PM | - | S,J | S,J | S,J | S,J | S | - |
 | 1:00 PM | - | S,J| S | S,J |S | S | - |
 | 2:00 PM | - | J | R | J | S,R | S,R | - |
-| 3:00 PM | - | J,F | S,R,F | J,F | S,R,F | S,R,F | - |
-| 4:00 PM | - | J,F | S,R,F| J,F | S,F | R,F | - |
-| 5:00 PM | - | R,F | R,F | R,F | R,F | R,F | - |
-| 6:00 PM | - | R,F | R,F | R,F | R,F | R,F | - |
+| 3:00 PM | - | J| S,R | J | S,R | S,R | - |
+| 4:00 PM | - | J | S,R| J,F | S | R | - |
+| 5:00 PM | - | R | R | R | R | R | - |
+| 6:00 PM | - | R | R | R | R | R | - |
 | 7:00 PM | - | - | - | - | - | - | - |
 | 8:00 PM | - | - | - | - | - | - | - |
 | 9:00 PM | - | - | -| - | - | - | - |
@@ -60,7 +59,6 @@ _**Table Legend for Appendix Table 2**_
 | Stellan S.| S |
 | Jojo | J |
 | Ramon | R |
-| Samuel F. | F |
 
 
 ## Meeting Coordination
@@ -77,7 +75,6 @@ _**Appendix Table 2**: Project Roles and Duties_
 | :---------------- | :--------------------------------------------------------------------------------------------------------------|
 | Meeting Leader | Stellan | Schedules team meetings, creates and distributes an agenda for each meeting, and runs each meeting                                |
 
-| Meeting recorder | Samuel | Takes minutes of each team meeting, including attendance, and records action items and to whom they are assigned                          |
 
 | Assignment leader | Ramon | Coordinates the team's work on a given assignment to Canvas before the due date                                                             |
 
@@ -91,4 +88,3 @@ If there is a disagreement, we will talk about it as a team and try to come up w
 Joseph White.
 Stellan Smith-Rel.
 Ramon Duarte.
-Samuel Fontana.
