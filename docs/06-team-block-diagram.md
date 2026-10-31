@@ -11,15 +11,16 @@ The project is split into four main parts, with each team member responsible for
 
 * **Stellan:** Speaker
 * **Jojo:** Microphone
-* **Samuel:** Motor
-* **Ramon:** Pressure Sensor
+* **Ramon:** Motor and Pressure Sensor
 
 ## Images
 
-![Block Diagram](image/Diagram.drawio.png) 
+![Block Diagram](image/Team203Diagram.drawio.png
+) 
 **Figure 1:** Team Block Diagram
 
-[Block Diagram](https://github.com/EGR304-2026-F-203/EGR304_Team203.github.io/blob/main/docs/Appendix/Team_203_Block_Diagram.drawio)
+[Block Diagram](https://github.com/EGR304-2026-F-203/EGR304_Team203.github.io/blob/main/docs/Appendix/Team203Diagram.drawio.xml
+)
 
 ## Results
 
